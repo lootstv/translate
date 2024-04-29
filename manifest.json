@@ -2,21 +2,11 @@
   {
     "name": "en-US",
     "nativeName": "English",
-    "wikiCode": "en",
-    "flag": "🇺🇸",
-    "default": true,
-    "contributors": [
-      "266103595949096960"
-    ]
+    "default": true
   },
   {
     "name": "es-ES",
     "nativeName": "Español",
-    "wikiCode": "es",
-    "flag": "🇪🇸",
-    "default": false,
-    "contributors": [
-      "266103595949096960"
-    ]
+    "default": false
   }
 ]
