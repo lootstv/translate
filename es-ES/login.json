@@ -1,10 +1,10 @@
 {
-  "HEADER": "Login to your account!",
-  "NOT_A_MEMBER": "Not a member?",
-  "FORGOT_PASSWORD": "Forgot password?",
-  "REMEMBER_ME": "Remember this device for 180 days.",
+  "HEADER": "¡Inicia sesión con tu cuenta!",
+  "NOT_A_MEMBER": "¿No es Miembro?",
+  "FORGOT_PASSWORD": "¿Has olvidado la contraseña?",
+  "REMEMBER_ME": "Recordar este dispositivo durante 180 días.",
   "WANT_LOGOUT": {
-    "TITLE": "Are you sure you want to log out?",
-    "DESCRIPTION": "You will be logged out of your account and will need to log in again to access your account."
+    "TITLE": "¿Estás seguro de que quieres cerrar sesión?",
+    "DESCRIPTION": "Se cerrará la sesión de tu cuenta y tendrá que volver a iniciar sesión para acceder a tu cuenta."
   }
 }
