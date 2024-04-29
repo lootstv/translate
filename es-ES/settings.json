@@ -1,49 +1,49 @@
 {
   "BASIC_INFORMATION": {
-    "TITLE": "Basic information",
-    "DESCRIPTION": "Basic information about your account."
+    "TITLE": "Información básica",
+    "DESCRIPTION": "Información básica sobre tu cuenta."
   },
-  "CHANGE_AVATAR_HELP": "JPG or PNG. 1MB max.",
+  "CHANGE_AVATAR_HELP": "JPG o PNG. 1 MB máximo.",
   "CONTACT_METHODS": {
-    "TITLE": "Contact methods",
-    "DESCRIPTION": "How we can reach you?"
+    "TITLE": "Métodos de contacto",
+    "DESCRIPTION": "¿Cómo podemos llegar a usted?"
   },
   "CHANGE_PASSWORD": {
-    "TITLE": "Change password",
-    "DESCRIPTION": "Change your password."
+    "TITLE": "Cambiar contraseña",
+    "DESCRIPTION": "Cambia tu contraseña."
   },
   "LOGOUT": {
-    "SESSION": "Session",
-    "IP_ADDRESS": "IP address"
+    "SESSION": "Sesión",
+    "IP_ADDRESS": "Dirección IP"
   },
   "LOGOUT_OTHER_SESSION": {
-    "TITLE": "Logout other session",
-    "DESCRIPTION": "Select the session you want to logout from."
+    "TITLE": "Cerrar sesión en otra sesión",
+    "DESCRIPTION": "Selecciona la sesión que quieres cerrar."
   },
   "LOGOUT_OTHER_SESSIONS": {
-    "TITLE": "Logout other sessions",
-    "DESCRIPTION": "Logout from other devices except this one."
+    "TITLE": "Cerrar sesión de otras sessiones",
+    "DESCRIPTION": "Cerrar sesión de otros dispositivos excepto este."
   },
   "BILLING_ADDRESS": {
-    "TITLE": "Billing address",
-    "DESCRIPTION": "Your billing address. Keep it up to date to avoid any issues."
+    "TITLE": "Dirección de facturación",
+    "DESCRIPTION": "Tu dirección de facturación. Mantenla al día para evitar cualquier problema."
   },
   "BANK_ACCOUNT": {
-    "TITLE": "Bank account",
-    "DESCRIPTION": "Your bank account. Add or remove it."
+    "TITLE": "Cuenta bancaria",
+    "DESCRIPTION": "Tu cuenta bancaria. Agrega o elimina una."
   },
   "PAYMENT_METHODS": {
-    "TITLE": "Payment methods",
-    "DESCRIPTION": "Your payment methods. Add or remove them.",
-    "PRIMARY": "Primary",
-    "SECONDARY": "Secondary",
-    "REMOVE_PAYMENT_METHOD": "Remove payment method"
+    "TITLE": "Métodos de pago",
+    "DESCRIPTION": "Tus métodos de pago. Añade o elimina uno.",
+    "PRIMARY": "Principal",
+    "SECONDARY": "Secundario",
+    "REMOVE_PAYMENT_METHOD": "Eliminar método de pago"
   },
   "NAVBAR": {
     "GENERAL": "General",
-    "CONTACT_METHODS": "Contact methods",
-    "SECURITY": "Security",
-    "BILLING": "Billing",
-    "OTHER": "Other"
+    "CONTACT_METHODS": "Métodos de contacto",
+    "SECURITY": "Seguridad",
+    "BILLING": "Facturación",
+    "OTHER": "Otro"
   }
 }
