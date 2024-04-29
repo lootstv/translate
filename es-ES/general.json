@@ -4,12 +4,12 @@
   "DEPRECATED": "Obsoleto",
   "DECOMMISSIONED": "Desmantelado",
   "PONG": "¡PONG!",
-  "LOGIN_SUCCESS": "You have successfully logged in! Redirecting!",
-  "SESSION_INVALIDATED_SUCCESS": "You have successfully logged out! You'll be redirected to the home page...",
-  "SPECIFIED_SESSION_INVALIDATED_SUCCESS": "The specified session has been invalidated! Reloading the page...",
-  "ALL_SESSIONS_INVALIDATED_SUCCESS": "All sessions have been invalidated! Reloading the page...",
-  "USER_DATA_UPDATED": "You have successfully updated that data! Reloading the page...",
-  "EMAIL_CHANGED_NEEDS_VERIFICATION": "You have successfully changed your email address! You'll need to verify it before you can log in again...",
-  "PAYMENT_METHOD_ADDED": "You have successfully added a payment method! Reloading the page...",
-  "PAYMENT_METHOD_REMOVED": "You have successfully removed a payment method! Reloading the page..."
+  "LOGIN_SUCCESS": "¡Has iniciado sesión con éxito! ¡Redirigiéndote!",
+  "SESSION_INVALIDATED_SUCCESS": "¡Has cerrado sesión con éxito! Serás redirigido a la página de inicio...",
+  "SPECIFIED_SESSION_INVALIDATED_SUCCESS": "¡La sesión especificada ha sido invalidada! Recargando la página...",
+  "ALL_SESSIONS_INVALIDATED_SUCCESS": "¡Todas las sesiones han sido invalidadas! Recargando la página...",
+  "USER_DATA_UPDATED": "¡Ha actualizado correctamente esos datos! Recargando la página...",
+  "EMAIL_CHANGED_NEEDS_VERIFICATION": "¡Has cambiado correctamente tu dirección de correo electrónico! Tendrás que verificarlo antes de poder iniciar sesión de nuevo...",
+  "PAYMENT_METHOD_ADDED": "¡Has añadido un método de pago con éxito! Recargando la página...",
+  "PAYMENT_METHOD_REMOVED": "¡Has eliminado con éxito el método de pago! Recargando la página..."
 }
