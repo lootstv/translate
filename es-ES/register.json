@@ -1,34 +1,34 @@
 {
-  "HEADER": "Register and make it yours!",
+  "HEADER": "¡Regístrate y hazla tuya!",
   "BASIC_INFORMATION": {
-    "TITLE": "Basic information",
-    "DESCRIPTION": "Please fill in the form below to register. Fields marked with * are required."
+    "TITLE": "Información básica",
+    "DESCRIPTION": "Por favor, rellena el siguiente formulario para registrarte. Los campos marcados con * son obligatorios."
   },
   "BILLING_INFORMATION": {
-    "TITLE": "Billing information",
-    "DESCRIPTION": "Please fill in the form below to register. Fields marked with * are required."
+    "TITLE": "Información de facturación",
+    "DESCRIPTION": "Por favor, rellena el siguiente formulario para registrarte. Los campos marcados con * son obligatorios."
   },
-  "ALREADY_A_MEMBER": "Already a member?",
+  "ALREADY_A_MEMBER": "¿Ya eres miembro?",
   "REGISTER_COMPLETED": {
-    "TITLE": "You have successfully registered!",
-    "DESCRIPTION": "You will receive an email with a confirmation link. Please click on the link to activate your account."
+    "TITLE": "¡Te has registrado correctamente!",
+    "DESCRIPTION": "Recibirás un correo electrónico con un enlace de confirmación. Por favor, haz clic en el enlace para activar tu cuenta."
   },
   "EMAIL_VERIFICATION": {
-    "TITLE": "Email verification",
-    "DESCRIPTION": "You are just one step away from verifying your email. Complete the captcha and click the <strong>Verify email</strong> button.",
-    "VERIFY_EMAIL": "Verify email",
-    "VERIFYING_EMAIL": "Verifying email...",
-    "RESEND_EMAIL": "Resend email verification",
+    "TITLE": "Verificación de correo electrónico",
+    "DESCRIPTION": "Estás a un solo paso de verificar tu correo electrónico. Completa el captcha y haz clic en el botón <strong>Verificar correo electrónico</strong>.",
+    "VERIFY_EMAIL": "Verificar correo electrónico",
+    "VERIFYING_EMAIL": "Verificando correo electrónico...",
+    "RESEND_EMAIL": "Reenviar correo de verificación",
     "COMPLETED": {
-      "TITLE": "Email verified!",
-      "DESCRIPTION": "Your email has been successfully verified. You can now log in to your account."
+      "TITLE": "¡Correo electrónico verificado!",
+      "DESCRIPTION": "Tu correo electrónico ha sido verificado correctamente. Ahora puedes iniciar sesión en tu cuenta."
     },
     "REQUEST_CODE": {
-      "HEADER": "Didn't receive the email?",
-      "REQUEST_CODE": "Request code",
-      "REQUESTING_CODE": "Requesting code...",
-      "TITLE": "Email sent",
-      "DESCRIPTION": "We have sent you an email with a new verification code. Please check your inbox and spam folder."
+      "HEADER": "¿No recibiste el correo electrónico?",
+      "REQUEST_CODE": "Solicitar código",
+      "REQUESTING_CODE": "Solicitando código...",
+      "TITLE": "Correo electrónico enviado",
+      "DESCRIPTION": "Te hemos enviado un correo electrónico con un nuevo código de verificación. Por favor, revisa tu bandeja de entrada y tu carpeta de correo no deseado."
     }
   }
 }
