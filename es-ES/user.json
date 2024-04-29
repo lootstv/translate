@@ -1,22 +1,22 @@
 {
-  "NAME": "Name",
-  "SURNAMES": "Surnames",
-  "USERNAME": "Username",
-  "BIOGRAPHY": "Biography",
-  "EMAIL": "Email",
-  "PASSWORD": "Password",
-  "ADDRESS": "Address",
-  "CITY": "City",
-  "STATE": "State",
-  "ZIP_CODE": "Zip code",
-  "COUNTRY": "Country",
-  "PHONE_PREFIX": "Phone prefix",
-  "PHONE_NUMBER": "Phone number",
+  "NAME": "Nombre",
+  "SURNAMES": "Apellidos",
+  "USERNAME": "Nombre de usuario",
+  "BIOGRAPHY": "Biografía",
+  "EMAIL": "Correo electrónico",
+  "PASSWORD": "Contraseña",
+  "ADDRESS": "Dirección",
+  "CITY": "Ciudad",
+  "STATE": "Estado",
+  "ZIP_CODE": "Codigo postal",
+  "COUNTRY": "País",
+  "PHONE_PREFIX": "Prefijo teléfonico",
+  "PHONE_NUMBER": "Número de teléfono",
   "PAYMENT_METHOD": {
-    "CARD_NUMBER": "Card number",
-    "EXPIRATION_DATE": "Expiration date",
+    "CARD_NUMBER": "Número de la tarjeta",
+    "EXPIRATION_DATE": "Fecha de caducidad",
     "CVC": "CVC",
-    "HOLDER": "Holder"
+    "HOLDER": "Titular"
   },
-  "BANK_ACCOUNT": "Bank account"
+  "BANK_ACCOUNT": "Cuenta bancaria"
 }
