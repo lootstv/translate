@@ -1,0 +1,15 @@
+{
+  "HELLO_WITH_NAME": "¡Hola, <strong>{{name}}</strong>!",
+  "REGARDS": "Regards,<br>The <strong>Loots.tv</strong> team.",
+  "REGISTER": {
+    "SUBJECT": "Welcome to Loots.tv!",
+    "THANKS_FOR_REGISTERING": "Thanks for registering in <strong>Loots.tv</strong>. To complete the registration process, please click on the button below:",
+    "VERIFY_EMAIL": "Verify email",
+    "IF_NOT_WORKING": "If the button above does not work, please copy and paste the following link into your browser:",
+    "NOT_REQUESTED": "Haven't you requested this email? Don't worry, just ignore it. This link will expire in 24 hours."
+  },
+  "VERIFY_EMAIL_COMPLETED": {
+    "SUBJECT": "Email verified successfully!",
+    "EMAIL_VERIFIED": "Your email has been verified successfully. Now you can enjoy all the features of <strong>Loots.tv</strong>."
+  }
+}

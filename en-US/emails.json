@@ -1,0 +1,37 @@
+{
+  "HELLO_WITH_NAME": "Hello, <strong>{{name}}</strong>!",
+  "REGARDS": "Regards,<br>The <strong>Loots.tv</strong> team.",
+  "BUTTON_NOT_WORKING": "If the button above does not work, please copy and paste the following link into your browser:",
+  "REGISTER": {
+    "SUBJECT": "Welcome to Loots.tv!",
+    "THANKS_FOR_REGISTERING": "Thanks for registering in <strong>Loots.tv</strong>. To complete the registration process, please click on the button below:",
+    "VERIFY_EMAIL": "Verify email",
+    "NOT_REQUESTED": "Haven't you requested this email? Don't worry, just ignore it. This link will expire in 24 hours."
+  },
+  "EMAIL_CHANGE_NEEDS_VERIFICATION": {
+    "SUBJECT": "Email change request",
+    "CHANGE_REQUESTED": "You have requested to change your email address. To complete the process, please click on the button below:",
+    "VERIFY_EMAIL_CHANGE": "Verify email change",
+    "NOT_REQUESTED": "If you have not requested this change, please contact us immediately."
+  },
+  "VERIFICATION_EMAIL_RESEND": {
+    "SUBJECT": "Resend verification email",
+    "RESEND_REQUESTED": "You have requested to resend the verification email. To complete the process, please click on the button below:",
+    "VERIFY_EMAIL": "Verify email",
+    "NOT_REQUESTED": "If you have not requested this email, please ignore it."
+  },
+  "VERIFY_EMAIL_COMPLETED": {
+    "SUBJECT": "Email verified successfully!",
+    "EMAIL_VERIFIED": "Your email has been verified successfully. Now you can enjoy all the features of <strong>Loots.tv</strong>."
+  },
+  "PASSWORD_RECOVERY_SEND": {
+    "SUBJECT": "Request to recover the password of your account",
+    "RECOVER_REQUESTED": "You have requested to recover the password of your account. To complete the process, please click on the button below:",
+    "RECOVER_PASSWORD": "Recover password",
+    "NOT_REQUESTED": "If you have not requested this email, please ignore it."
+  },
+  "CHANGE_PASSWORD_COMPLETED": {
+    "SUBJECT": "Password changed successfully!",
+    "PASSWORD_CHANGED": "Your password has been changed successfully. If you have not requested this change, please contact us immediately."
+  }
+}

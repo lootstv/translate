@@ -1,0 +1,22 @@
+{
+  "NAME": "Name",
+  "SURNAMES": "Surnames",
+  "USERNAME": "Username",
+  "BIOGRAPHY": "Biography",
+  "EMAIL": "Email",
+  "PASSWORD": "Password",
+  "ADDRESS": "Address",
+  "CITY": "City",
+  "STATE": "State",
+  "ZIP_CODE": "Zip code",
+  "COUNTRY": "Country",
+  "PHONE_PREFIX": "Phone prefix",
+  "PHONE_NUMBER": "Phone number",
+  "PAYMENT_METHOD": {
+    "CARD_NUMBER": "Card number",
+    "EXPIRATION_DATE": "Expiration date",
+    "CVC": "CVC",
+    "HOLDER": "Holder"
+  },
+  "BANK_ACCOUNT": "Bank account"
+}
