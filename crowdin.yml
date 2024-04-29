@@ -1,5 +1,5 @@
 pull_request_labels:
-  - api
+  - dashboard
   - blocked
 files:
   - source: /en-US/*.json
