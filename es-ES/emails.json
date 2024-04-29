@@ -1,37 +1,37 @@
 {
   "HELLO_WITH_NAME": "¡Hola, <strong>{{name}}</strong>!",
-  "REGARDS": "Regards,<br>The <strong>Loots.tv</strong> team.",
-  "BUTTON_NOT_WORKING": "If the button above does not work, please copy and paste the following link into your browser:",
+  "REGARDS": "Saludos,<br>El equipo de <strong>Loots.tv</strong>.",
+  "BUTTON_NOT_WORKING": "Si el botón de arriba no funciona, por favor copia y pega el siguiente enlace en su navegador:",
   "REGISTER": {
-    "SUBJECT": "Welcome to Loots.tv!",
-    "THANKS_FOR_REGISTERING": "Thanks for registering in <strong>Loots.tv</strong>. To complete the registration process, please click on the button below:",
-    "VERIFY_EMAIL": "Verify email",
-    "NOT_REQUESTED": "Haven't you requested this email? Don't worry, just ignore it. This link will expire in 24 hours."
+    "SUBJECT": "¡Bienvenido a Loots.tv!",
+    "THANKS_FOR_REGISTERING": "Gracias por registrarte en <strong>Loots.tv</strong>. Para completar el proceso de registro, haz clic en el siguiente botón:",
+    "VERIFY_EMAIL": "Verificar correo electrónico",
+    "NOT_REQUESTED": "¿No has solicitado este correo electrónico? No te preocupes, ignóralo. Este enlace caducará en 24 horas."
   },
   "EMAIL_CHANGE_NEEDS_VERIFICATION": {
-    "SUBJECT": "Email change request",
-    "CHANGE_REQUESTED": "You have requested to change your email address. To complete the process, please click on the button below:",
-    "VERIFY_EMAIL_CHANGE": "Verify email change",
-    "NOT_REQUESTED": "If you have not requested this change, please contact us immediately."
+    "SUBJECT": "Solicitud de cambio de correo electrónico",
+    "CHANGE_REQUESTED": "Has solicitado cambiar tu dirección de correo electrónico. Para completar el proceso, por favor haz clic en el botón de abajo:",
+    "VERIFY_EMAIL_CHANGE": "Verificar cambio de email",
+    "NOT_REQUESTED": "Si no has solicitado este cambio, ponte en contacto con nosotros inmediatamente."
   },
   "VERIFICATION_EMAIL_RESEND": {
-    "SUBJECT": "Resend verification email",
-    "RESEND_REQUESTED": "You have requested to resend the verification email. To complete the process, please click on the button below:",
-    "VERIFY_EMAIL": "Verify email",
-    "NOT_REQUESTED": "If you have not requested this email, please ignore it."
+    "SUBJECT": "Reenviar correo electrónico de verificación",
+    "RESEND_REQUESTED": "Has solicitado un reenvío del correo de verificación. Para completar el proceso, por favor haz clic en el botón de abajo:",
+    "VERIFY_EMAIL": "Verificar correo electrónico",
+    "NOT_REQUESTED": "Si no has solicitado este correo, por favor ignóralo."
   },
   "VERIFY_EMAIL_COMPLETED": {
-    "SUBJECT": "Email verified successfully!",
-    "EMAIL_VERIFIED": "Your email has been verified successfully. Now you can enjoy all the features of <strong>Loots.tv</strong>."
+    "SUBJECT": "¡Correo electrónico verificado!",
+    "EMAIL_VERIFIED": "Tu correo electrónico ha sido verificado con éxito. Ahora puedes disfrutar de todas las características de <strong>Loots.tv</strong>."
   },
   "PASSWORD_RECOVERY_SEND": {
-    "SUBJECT": "Request to recover the password of your account",
-    "RECOVER_REQUESTED": "You have requested to recover the password of your account. To complete the process, please click on the button below:",
-    "RECOVER_PASSWORD": "Recover password",
-    "NOT_REQUESTED": "If you have not requested this email, please ignore it."
+    "SUBJECT": "Solicitud para recuperar la contraseña de su cuenta",
+    "RECOVER_REQUESTED": "Has solicitado recuperar la contraseña de tu cuenta. Para completar el proceso, por favor haz clic en el botón de abajo:",
+    "RECOVER_PASSWORD": "Recuperar contraseña",
+    "NOT_REQUESTED": "Si no has solicitado este correo, por favor ignóralo."
   },
   "CHANGE_PASSWORD_COMPLETED": {
-    "SUBJECT": "Password changed successfully!",
-    "PASSWORD_CHANGED": "Your password has been changed successfully. If you have not requested this change, please contact us immediately."
+    "SUBJECT": "¡Contraseña cambiada con éxito!",
+    "PASSWORD_CHANGED": "Su contraseña ha sido cambiada con éxito. Si no has solicitado este cambio, ponte en contacto con nosotros inmediatamente."
   }
 }
