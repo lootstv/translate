@@ -1,0 +1,34 @@
+ {
+  "HEADER": "Register and make it yours!",
+  "BASIC_INFORMATION": {
+    "TITLE": "Basic information",
+    "DESCRIPTION": "Please fill in the form below to register. Fields marked with * are required."
+  },
+  "BILLING_INFORMATION": {
+    "TITLE": "Billing information",
+    "DESCRIPTION": "Please fill in the form below to register. Fields marked with * are required."
+  },
+  "ALREADY_A_MEMBER": "Already a member?",
+  "REGISTER_COMPLETED": {
+    "TITLE": "You have successfully registered!",
+    "DESCRIPTION": "You will receive an email with a confirmation link. Please click on the link to activate your account."
+  },
+  "EMAIL_VERIFICATION": {
+    "TITLE": "Email verification",
+    "DESCRIPTION": "You are just one step away from verifying your email. Complete the captcha and click the <strong>Verify email</strong> button.",
+    "VERIFY_EMAIL": "Verify email",
+    "VERIFYING_EMAIL": "Verifying email...",
+    "RESEND_EMAIL": "Resend email verification",
+    "COMPLETED": {
+      "TITLE": "Email verified!",
+      "DESCRIPTION": "Your email has been successfully verified. You can now log in to your account."
+    },
+    "REQUEST_CODE": {
+      "HEADER": "Didn't receive the email?",
+      "REQUEST_CODE": "Request code",
+      "REQUESTING_CODE": "Requesting code...",
+      "TITLE": "Email sent",
+      "DESCRIPTION": "We have sent you an email with a new verification code. Please check your inbox and spam folder."
+    }
+  }
+ }

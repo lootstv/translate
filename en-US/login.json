@@ -1,0 +1,10 @@
+{
+  "HEADER": "Login to your account!",
+  "NOT_A_MEMBER": "Not a member?",
+  "FORGOT_PASSWORD": "Forgot password?",
+  "REMEMBER_ME": "Remember this device for 180 days.",
+  "WANT_LOGOUT": {
+    "TITLE": "Are you sure you want to log out?",
+    "DESCRIPTION": "You will be logged out of your account and will need to log in again to access your account."
+  }
+}
