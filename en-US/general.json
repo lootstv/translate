@@ -11,5 +11,6 @@
   "USER_DATA_UPDATED": "You have successfully updated that data! Reloading the page...",
   "EMAIL_CHANGED_NEEDS_VERIFICATION": "You have successfully changed your email address! You'll need to verify it before you can log in again...",
   "PAYMENT_METHOD_ADDED": "You have successfully added a payment method! Reloading the page...",
-  "PAYMENT_METHOD_REMOVED": "You have successfully removed a payment method! Reloading the page..."
+  "PAYMENT_METHOD_REMOVED": "You have successfully removed a payment method! Reloading the page...",
+  "REGENERATED_NOTIFICATIONS_TOKEN": "You have successfully regenerated your notifications token!"
 }

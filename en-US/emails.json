@@ -33,5 +33,10 @@
   "CHANGE_PASSWORD_COMPLETED": {
     "SUBJECT": "Password changed successfully!",
     "PASSWORD_CHANGED": "Your password has been changed successfully. If you have not requested this change, please contact us immediately."
+  },
+  "REGENERATED_NOTIFICATIONS_TOKEN": {
+    "SUBJECT": "Notifications token regenerated",
+    "REGENERATED": "Your notifications token has been regenerated successfully.",
+    "NOT_REQUESTED": "If you have not requested this change, please contact us immediately."
   }
 }
