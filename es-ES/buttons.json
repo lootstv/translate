@@ -15,6 +15,7 @@
   "UPDATE": "Actualizar",
   "UPDATING": "Actualizando...",
   "CHANGE_AVATAR": "Cambiar avatar",
+  "DELETE_AVATAR": "Delete avatar",
   "LOGOUT_OTHER_SESSIONS": "Desconectar otras sesiones",
   "SELECT": "Seleccionar",
   "SELECTED": "Seleccionado",
@@ -30,5 +31,6 @@
   "MY_COLLECTIONS": "Mis colecciones",
   "BALANCE": "Saldo",
   "MY_INVENTORY": "Mi inventario",
+  "MY_TRANSACTIONS": "My transactions",
   "CONTACT_US": "Contáctanos"
 }
