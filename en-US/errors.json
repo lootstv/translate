@@ -43,5 +43,6 @@
   "PAYMENT_METHODS_NOT_FOUND": "No payment methods found.",
   "PAYMENT_METHOD_NOT_FOUND": "The payment method you provided is not found or not associated with your account.",
   "PAYMENT_METHOD_ALREADY_EXISTS": "The payment method you provided already exists in your account.",
-  "INVALID_PASSWORD_RECOVERY_CODE": "The password recovery code you provided is invalid."
+  "INVALID_PASSWORD_RECOVERY_CODE": "The password recovery code you provided is invalid.",
+  "AVATAR_NOT_SET": "You haven't set an avatar yet."
 }
