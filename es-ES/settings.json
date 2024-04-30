@@ -39,11 +39,21 @@
     "SECONDARY": "Secundario",
     "REMOVE_PAYMENT_METHOD": "Eliminar método de pago"
   },
+  "IN_STREAM_NOTIFICATIONS": {
+    "TITLE": "In-stream notifications",
+    "DESCRIPTION": "Generate or regenerate your in-stream notifications token.",
+    "REGENERATED_TOKEN": {
+      "TITLE": "Regenerated token!",
+      "DESCRIPTION": "Your in-stream notifications token has been regenerated. Don't forget to update it in your streaming software.<br><strong>This token won't show up again, so make sure to save it somewhere safe.</strong>",
+      "COPY_TOKEN": "Copy token"
+    }
+  },
   "NAVBAR": {
     "GENERAL": "General",
     "CONTACT_METHODS": "Métodos de contacto",
     "SECURITY": "Seguridad",
     "BILLING": "Facturación",
+    "INTEGRATIONS": "Integrations",
     "OTHER": "Otro"
   }
 }
