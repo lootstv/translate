@@ -15,6 +15,7 @@
   "UPDATE": "Update",
   "UPDATING": "Updating...",
   "CHANGE_AVATAR": "Change avatar",
+  "DELETE_AVATAR": "Delete avatar",
   "LOGOUT_OTHER_SESSIONS": "Logout other sessions",
   "SELECT": "Select",
   "SELECTED": "Selected",
