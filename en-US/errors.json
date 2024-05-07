@@ -44,5 +44,9 @@
   "PAYMENT_METHOD_NOT_FOUND": "The payment method you provided is not found or not associated with your account.",
   "PAYMENT_METHOD_ALREADY_EXISTS": "The payment method you provided already exists in your account.",
   "INVALID_PASSWORD_RECOVERY_CODE": "The password recovery code you provided is invalid.",
-  "AVATAR_NOT_SET": "You haven't set an avatar yet."
+  "AVATAR_NOT_SET": "You haven't set an avatar yet.",
+  "MAX_COLLECTIONS_REACHED": "You have reached the maximum number of collections.",
+  "COLLECTIONS_NOT_FOUND": "No collections found.",
+  "COLLECTION_NOT_FOUND": "The collection you provided is missing, unpublished, or deleted.",
+  "USER_NOT_FOUND": "The user you provided doesn't exists or is not available."
 }
