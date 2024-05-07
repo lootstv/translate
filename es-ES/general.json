@@ -1,4 +1,8 @@
 {
+  "DATE_TIME": "MM/DD/yyyy hh:mm",
+  "COLLECTIONS": "Collections",
+  "HOME": "Home",
+  "NEW_COLLECTION": "New collection",
   "LOGIN": "Iniciar sesión",
   "FORGOT_PASSWORD": "Olvidé mi contraseña",
   "LOGOUT": "Cerrar sesión",
@@ -8,6 +12,7 @@
   "CONTACT_METHODS": "Métodos de contacto",
   "SECURITY": "Seguridad",
   "INTEGRATIONS": "Integrations",
+  "PROFILE": "{{user.username}}'s profile",
   "VERIFY_EMAIL": "Verificar correo electrónico",
   "REQUEST_VERIFICATION_EMAIL": "Solicitar Correo de Verificación",
   "NOT_FOUND": "No Encontrado",
@@ -19,5 +24,11 @@
   "OPEN_SIDEBAR": "Abrir barra lateral",
   "CLOSE_SIDEBAR": "Cerrar barra lateral",
   "CURRENT": "Actual",
-  "YOUR_COLLECTIONS": "Tus colecciones"
+  "COLLECTION_IMAGE": "Collection image",
+  "CHANGE_IMAGE_HELP": "JPG or PNG. 1MB max.",
+  "LOADING": "Loading...",
+  "REGISTRATION_DATE": "Registration date",
+  "PROFILE_URL": "Profile URL",
+  "VERIFIED_BADGE_HELP_TEXT": "This user has verified their email address.",
+  "BIOGRAPHY_DUMMY": "I'm a nice predefined bio!"
 }
