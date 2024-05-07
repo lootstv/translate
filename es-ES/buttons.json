@@ -1,4 +1,5 @@
 {
+  "NEXT": "Next",
   "GO_BACK": "Volver atrás",
   "GO_HOME": "Ir al inicio",
   "REGISTER": "Registrar",
@@ -28,7 +29,7 @@
   "CHANGE_PASSWORD": "Cambiar contraseña",
   "CHANGING_PASSWORD": "Cambiando la contraseña...",
   "DISCOVER": "Descubrir",
-  "MY_COLLECTIONS": "Mis colecciones",
+  "COLLECTIONS": "Collections",
   "BALANCE": "Saldo",
   "MY_INVENTORY": "Mi inventario",
   "MY_TRANSACTIONS": "My transactions",
@@ -36,5 +37,9 @@
   "REGENERATE_TOKEN": "Regenerate token",
   "REGENERATING_TOKEN": "Regenerating token...",
   "COPY_TOKEN": "Copy token",
-  "COPIED_TOKEN": "Copied token!"
+  "COPIED_TOKEN": "Copied token!",
+  "CANCEL": "Cancel",
+  "CHANGE_IMAGE": "Change image",
+  "CREATE": "Create collection",
+  "CREATING": "Creating..."
 }
