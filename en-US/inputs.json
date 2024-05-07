@@ -49,5 +49,11 @@
   "PAYMENT_METHOD_HELP_TEXT": "Your payment method",
   "PAYMENT_METHOD_SELECT_TEXT": "Select a payment method",
   "BANK_ACCOUNT": "Bank account",
-  "BANK_ACCOUNT_HELP_TEXT": "Your bank account. Example: ESXX XXXX XXXX XXXX XXXX XXXX"
+  "BANK_ACCOUNT_HELP_TEXT": "Your bank account. Example: ESXX XXXX XXXX XXXX XXXX XXXX",
+  "COLLECTION_NAME": "Name",
+  "COLLECTION_NAME_HELP_TEXT": "Name of your collection",
+  "COLLECTION_DESCRIPTION": "Description",
+  "COLLECTION_DESCRIPTION_HELP_TEXT": "Description of your collection",
+  "IMAGE": "Image",
+  "IMAGE_HELP_TEXT": "Only JPG and PNG files are allowed. Maximum size: 1MB"
 }

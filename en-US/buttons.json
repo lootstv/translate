@@ -1,4 +1,5 @@
 {
+  "NEXT": "Next",
   "GO_BACK": "Go back",
   "GO_HOME": "Go home",
   "REGISTER": "Register",
@@ -28,7 +29,7 @@
   "CHANGE_PASSWORD": "Change password",
   "CHANGING_PASSWORD": "Changing password...",
   "DISCOVER": "Discover",
-  "MY_COLLECTIONS": "My collections",
+  "COLLECTIONS": "Collections",
   "BALANCE": "Balance",
   "MY_INVENTORY": "My inventory",
   "MY_TRANSACTIONS": "My transactions",
@@ -36,5 +37,9 @@
   "REGENERATE_TOKEN": "Regenerate token",
   "REGENERATING_TOKEN": "Regenerating token...",
   "COPY_TOKEN": "Copy token",
-  "COPIED_TOKEN": "Copied token!"
+  "COPIED_TOKEN": "Copied token!",
+  "CANCEL": "Cancel",
+  "CHANGE_IMAGE": "Change image",
+  "CREATE": "Create collection",
+  "CREATING": "Creating..."
 }

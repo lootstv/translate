@@ -1,0 +1,33 @@
+{
+  "COLLECTIONS": {
+    "TITLE": "{{user.username}}'s collections",
+    "DESCRIPTION": "Here you can see all the collections published by {{user.username}}. You can also create your own collection to group your favorite cards together.",
+    "NO_COLLECTIONS_CTA": {
+      "TITLE": "Create your first collection today!",
+      "DESCRIPTION": "You can create a collection to group your favorite cards together. Start earning money today!",
+      "BUTTON": "Let's do it!"
+    },
+    "NO_COLLECTIONS_ALT": {
+      "TITLE": "{{user.username}} has no collections yet",
+      "DESCRIPTION": "Looks like {{user.username}} has no collections published yet."
+    }
+  },
+  "NEW_COLLECTION": {
+    "TITLE": "Let's create your new collection!",
+    "DESCRIPTION": "This wizard will help you create a new collection.<br>You will be able to customize it to your liking and review it before creating it",
+    "STEPS": {
+      "BASIC_INFORMATION": {
+        "TITLE": "Basic information",
+        "DESCRIPTION": "Basic information about your collection."
+      },
+      "CUSTOMIZATION": {
+        "TITLE": "Customization",
+        "DESCRIPTION": "Customize your collection."
+      },
+      "REVIEW": {
+        "TITLE": "Review",
+        "DESCRIPTION": "Review your collection before creating it."
+      }
+    }
+  }
+}

@@ -8,5 +8,6 @@
     "DESCRIPTION": "An error occurred while processing your request. Please try again later."
   },
   "FORM_GENERIC_ERROR": "An error occurred while submitting the form. Please try again later.",
-  "PASSWORDS_MISSMATCH": "Passwords do not match."
+  "PASSWORDS_MISSMATCH": "Passwords do not match.",
+  "MAX_FILE_SIZE": "The file size exceeds the maximum allowed size."
 }
