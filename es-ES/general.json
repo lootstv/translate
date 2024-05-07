@@ -12,5 +12,6 @@
   "EMAIL_CHANGED_NEEDS_VERIFICATION": "¡Has cambiado correctamente tu dirección de correo electrónico! Tendrás que verificarlo antes de poder iniciar sesión de nuevo...",
   "PAYMENT_METHOD_ADDED": "¡Has añadido un método de pago con éxito! Recargando la página...",
   "PAYMENT_METHOD_REMOVED": "¡Has eliminado con éxito el método de pago! Recargando la página...",
-  "REGENERATED_NOTIFICATIONS_TOKEN": "You have successfully regenerated your notifications token!"
+  "REGENERATED_NOTIFICATIONS_TOKEN": "You have successfully regenerated your notifications token!",
+  "COLLECTION_CREATED": "You have successfully created a new collection. Redirecting..."
 }
