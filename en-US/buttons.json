@@ -41,5 +41,7 @@
   "CANCEL": "Cancel",
   "CHANGE_IMAGE": "Change image",
   "CREATE": "Create collection",
-  "CREATING": "Creating..."
+  "CREATING": "Creating...",
+  "PREVIOUS": "Previous",
+  "SEARCH": "Search"
 }
