@@ -48,5 +48,6 @@
   "MAX_COLLECTIONS_REACHED": "You have reached the maximum number of collections.",
   "COLLECTIONS_NOT_FOUND": "No collections found.",
   "COLLECTION_NOT_FOUND": "The collection you provided is missing, unpublished, or deleted.",
-  "USER_NOT_FOUND": "The user you provided doesn't exists or is not available."
+  "USER_NOT_FOUND": "The user you provided doesn't exists or is not available.",
+  "USERS_NOT_FOUND": "No users found."
 }
