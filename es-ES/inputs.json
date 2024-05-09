@@ -5,6 +5,7 @@
   "SURNAMES_HELP_TEXT": "Tus apellidos. Ejemplo: Doe",
   "USERNAME": "Nombre de usuario",
   "USERNAME_HELP_TEXT": "Tu nombre de usuario. Ejemplo: johndoe",
+  "A_USERNAME_HELP_TEXT": "A username. Example: johndoe",
   "BIOGRAPHY": "Biografía",
   "BIOGRAPHY_HELP_TEXT": "Tu biografía o descripción corta sobre ti mismo. Ejemplo: Soy un desarrollador",
   "EMAIL_ADDRESS": "Correo electrónico",
