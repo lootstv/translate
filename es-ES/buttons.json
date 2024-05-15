@@ -46,5 +46,7 @@
   "PREVIOUS": "Previous",
   "SEARCH": "Search",
   "PUBLISH_COLLECTION": "Publish collection",
-  "PUBLISHING": "Publishing..."
+  "PUBLISHING": "Publishing...",
+  "UNPUBLISH_COLLECTION": "Unpublish collection",
+  "UNPUBLISHING": "Unpublishing"
 }
