@@ -10,7 +10,18 @@
     "NO_COLLECTIONS_ALT": {
       "TITLE": "{{user.username}} has no collections yet",
       "DESCRIPTION": "Looks like {{user.username}} has no collections published yet."
+    },
+    "COLLECTION_CONTROLS": {
+      "TITLE": "Collection controls",
+      "EDIT_COLLECTION": "Edit collection",
+      "PUBLISH_COLLECTION": "Publish collection",
+      "UNPUBLISH_COLLECTION": "Unpublish collection",
+      "DELETE_COLLECTION": "Delete collection"
     }
+  },
+  "MY_COLLECTIONS": {
+    "TITLE": "My collections",
+    "DESCRIPTION": "Here you can see all the collections you have published. You can also create a new collection to group your favorite cards together."
   },
   "NEW_COLLECTION": {
     "TITLE": "Let's create your new collection!",
@@ -28,6 +39,41 @@
         "TITLE": "Review",
         "DESCRIPTION": "Review your collection before creating it."
       }
+    }
+  },
+  "EDIT_COLLECTION": {
+    "TITLE": "Basic information",
+    "DESCRIPTION": "Edit the basic information of your collection."
+  },
+  "PUBLISH_COLLECTION": {
+    "TITLE": "Publish collection",
+    "DESCRIPTION": "By publishing your collection, you agree to the <a class=\"font-semibold text-indigo-400 hover:text-indigo-300\" target=\"_blank\" rel=\"nonoreferrer noopener\" href=\"{{url}}\">terms and conditions</a> and <a class=\"font-semibold text-indigo-400 hover:text-indigo-300\" target=\"_blank\" rel=\"nonoreferrer noopener\" href=\"{{url2}}\">privacy policy</a> of the platform. Failure to comply with these rules may result in a ban from the platform.",
+    "BOX": {
+      "TITLE": "Publish \"{{collection.name}}\" collection",
+      "DESCRIPTION": "Make \"{{collection.name}}\" collection public and available to all users of the platform.",
+      "VERIFICATION_AND_SAFETY": {
+        "TITLE": "Verification and safety",
+        "ACCOUNT_VERIFIED": "Your account is verified.",
+        "BANK_ACCOUNT": "Your account must have a bank account linked to it.",
+        "30_DAYS": "You must have been a member for at least 30 days."
+      },
+      "BASIC_INFORMATION": {
+        "TITLE": "Basic information",
+        "NAME": "Your collection must have a name.",
+        "DESCRIPTION": "You collection must have a description and needs to be 32 characters long."
+      },
+      "CUSTOMIZATION": {
+        "TITLE": "Customization",
+        "IMAGE": "You need to upload image for your collection."
+      },
+      "CONTENT": {
+        "TITLE": "Content",
+        "PUBLISHED_CARDS": "You need to have at least 10 cards published in your collection."
+      }
+    },
+    "MODAL": {
+      "TITLE": "Are you sure you want to publish this collection?",
+      "DESCRIPTION": "By publishing your collection, you agree to the <a class=\"font-semibold text-indigo-400 hover:text-indigo-300\" target=\"_blank\" rel=\"nonoreferrer noopener\" href=\"{{url}}\">terms and conditions</a> and <a class=\"font-semibold text-indigo-400 hover:text-indigo-300\" target=\"_blank\" rel=\"nonoreferrer noopener\" href=\"{{url2}}\">privacy policy</a> of the platform."
     }
   }
 }
