@@ -60,20 +60,38 @@
       "BASIC_INFORMATION": {
         "TITLE": "Basic information",
         "NAME": "Your collection must have a name.",
-        "DESCRIPTION": "You collection must have a description and needs to be 32 characters long."
+        "DESCRIPTION": "Your collection must have a description and needs to be 32 characters long."
       },
       "CUSTOMIZATION": {
         "TITLE": "Customization",
-        "IMAGE": "You need to upload image for your collection."
+        "IMAGE": "Your collection must have an image."
       },
       "CONTENT": {
         "TITLE": "Content",
-        "PUBLISHED_CARDS": "You need to have at least 10 cards published in your collection."
+        "PUBLISHED_CARDS": "Your collection must have at least 10 published cards."
       }
     },
     "MODAL": {
       "TITLE": "Are you sure you want to publish this collection?",
       "DESCRIPTION": "By publishing your collection, you agree to the <a class=\"font-semibold text-indigo-400 hover:text-indigo-300\" target=\"_blank\" rel=\"nonoreferrer noopener\" href=\"{{url}}\">terms and conditions</a> and <a class=\"font-semibold text-indigo-400 hover:text-indigo-300\" target=\"_blank\" rel=\"nonoreferrer noopener\" href=\"{{url2}}\">privacy policy</a> of the platform."
+    }
+  },
+  "UNPUBLISH_COLLECTION": {
+    "TITLE": "Unpublish collection",
+    "DESCRIPTION": "By unpublishing your collection, you will make it private and it will no longer be available to other users of the platform until you decide to publish it again.",
+    "BOX": {
+      "TITLE": "Unpublish \"{{collection.name}}\" collection",
+      "DESCRIPTION": "Make \"{{collection.name}}\" collection private and only available to you.",
+      "WARNING": {
+        "TITLE": "Before you unpublish your collection",
+        "HIDDEN": "Your collection will be unavailable for other users.",
+        "NO_MONEY": "You will not be able to earn more money from your collection until you publish it again.",
+        "NO_CARDS": "Users will not be able to redeem cards from your collection until you publish it again."
+      }
+    },
+    "MODAL": {
+      "TITLE": "Are you sure you want to unpublish this collection?",
+      "DESCRIPTION": "By unpublishing your collection, you will make it private and it will no longer be available to other users of the platform until you decide to publish it again."
     }
   }
 }
