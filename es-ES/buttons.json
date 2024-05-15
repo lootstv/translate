@@ -17,6 +17,7 @@
   "UPDATING": "Actualizando...",
   "CHANGE_AVATAR": "Cambiar avatar",
   "DELETE_AVATAR": "Delete avatar",
+  "DELETE_IMAGE": "Delete image",
   "LOGOUT_OTHER_SESSIONS": "Desconectar otras sesiones",
   "SELECT": "Seleccionar",
   "SELECTED": "Seleccionado",
@@ -43,5 +44,7 @@
   "CREATE": "Create collection",
   "CREATING": "Creating...",
   "PREVIOUS": "Previous",
-  "SEARCH": "Search"
+  "SEARCH": "Search",
+  "PUBLISH_COLLECTION": "Publish collection",
+  "PUBLISHING": "Publishing..."
 }
