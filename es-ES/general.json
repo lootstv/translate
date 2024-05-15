@@ -2,7 +2,10 @@
   "DATE_TIME": "MM/DD/yyyy hh:mm",
   "COLLECTIONS": "Collections",
   "HOME": "Home",
+  "MY_COLLECTIONS": "My collections",
+  "EDIT_COLLECTION": "Edit collection",
   "NEW_COLLECTION": "New collection",
+  "PUBLISH_COLLECTION": "Publish collection",
   "DISCOVER": "Discover",
   "LOGIN": "Iniciar sesión",
   "FORGOT_PASSWORD": "Olvidé mi contraseña",
@@ -18,7 +21,7 @@
   "REQUEST_VERIFICATION_EMAIL": "Solicitar Correo de Verificación",
   "NOT_FOUND": "No Encontrado",
   "INTERNAL_SERVER_ERROR": "Error Interno del Servidor",
-  "TERMS_AND_CONDITIONS_AND_PRIVACY_POLICY": "He leído y acepto los <a class=\"font-semibold text-indigo-400 hover:text-indigo-300\" target=\"_blank\" rel=\"nonoreferrer noopener\" href=\"{{url}}\">términos y condiciones</a> y la <a class=\"font-semibold text-indigo-400 hover:text-indigo-300\" target=\"_blank\" rel=\"nonoreferrer noopener\" href=\"{{url2}}\">política de privacidad</a>.",
+  "TERMS_AND_CONDITIONS_AND_PRIVACY_POLICY": "I have read and accept the  and the <a class=\"font-semibold text-indigo-400 hover:text-indigo-300\" target=\"_blank\" rel=\"nonoreferrer noopener\" href=\"{{url2}}\">privacy policy</a>.",
   "REQUIRED_FIELDS": "Los campos marcados con * son obligatorios.",
   "YOUR_PROFILE": "Tu perfil",
   "USER_AVATAR": "Avatar del usuario",
@@ -31,5 +34,7 @@
   "REGISTRATION_DATE": "Registration date",
   "PROFILE_URL": "Profile URL",
   "VERIFIED_BADGE_HELP_TEXT": "This user has verified their email address.",
-  "BIOGRAPHY_DUMMY": "I'm a nice predefined bio!"
+  "BIOGRAPHY_DUMMY": "I'm a nice predefined bio!",
+  "DESCRIPTION_DUMMY": "I'm a nice predefined description!",
+  "COLLECTION_URL": "Collection URL"
 }
