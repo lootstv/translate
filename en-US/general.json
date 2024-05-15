@@ -13,5 +13,7 @@
   "PAYMENT_METHOD_ADDED": "You have successfully added a payment method! Reloading the page...",
   "PAYMENT_METHOD_REMOVED": "You have successfully removed a payment method! Reloading the page...",
   "REGENERATED_NOTIFICATIONS_TOKEN": "You have successfully regenerated your notifications token!",
-  "COLLECTION_CREATED": "You have successfully created a new collection. Redirecting..."
+  "COLLECTION_CREATED": "You have successfully created a new collection. Redirecting...",
+  "COLLECTION_DATA_UPDATED": "You have successfully updated that collection! Reloading the page...",
+  "COLLECTION_PUBLISHED_SUCCESSFULLY": "You have successfully published that collection!"
 }

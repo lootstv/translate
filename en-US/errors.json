@@ -49,5 +49,7 @@
   "COLLECTIONS_NOT_FOUND": "No collections found.",
   "COLLECTION_NOT_FOUND": "The collection you provided is missing, unpublished, or deleted.",
   "USER_NOT_FOUND": "The user you provided doesn't exists or is not available.",
-  "USERS_NOT_FOUND": "No users found."
+  "USERS_NOT_FOUND": "No users found.",
+  "IMAGE_NOT_SET": "You haven't set an image yet.",
+  "COLLECTION_DOES_NOT_MEET_REQUIREMENTS": "The collection you provided doesn't meet the requirements."
 }
