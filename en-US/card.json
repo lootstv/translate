@@ -1,0 +1,11 @@
+{
+  "NAME": "Name",
+  "DESCRIPTION": "Description",
+  "RARITY": "Rarity",
+  "INSTRUCTIONS": "Instructions",
+  "IMAGE": "Image",
+  "SOUND": "Sound",
+  "MESSAGE": "Message",
+  "DURATION": "Duration",
+  "RATELIMIT": "Rate Limit"
+}
