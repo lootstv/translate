@@ -41,12 +41,14 @@
   "COPIED_TOKEN": "Copied token!",
   "CANCEL": "Cancel",
   "CHANGE_IMAGE": "Change image",
-  "CREATE": "Create collection",
+  "CREATE_COLLECTION": "Create collection",
   "CREATING": "Creating...",
   "PREVIOUS": "Previous",
   "SEARCH": "Search",
   "PUBLISH_COLLECTION": "Publish collection",
   "PUBLISHING": "Publishing...",
   "UNPUBLISH_COLLECTION": "Unpublish collection",
-  "UNPUBLISHING": "Unpublishing"
+  "UNPUBLISHING": "Unpublishing",
+  "CREATE_CARD": "Create card",
+  "CHANGE_SOUND": "Change sound"
 }
