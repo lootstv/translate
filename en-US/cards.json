@@ -1,0 +1,31 @@
+{
+  "RARITIES": {
+    "COMMON": "Common",
+    "UNCOMMON": "Uncommon",
+    "RARE": "Rare",
+    "EPIC": "Epic",
+    "LEGENDARY": "Legendary"
+  },
+  "NEW_CARD": {
+    "TITLE": "Let's create your new card!",
+    "DESCRIPTION": "This wizard will help you create a new card.<br>You will be able to customize it to your liking and review it before creating it",
+    "STEPS": {
+      "BASIC_INFORMATION": {
+        "TITLE": "Basic information",
+        "DESCRIPTION": "Basic information about your card."
+      },
+      "CUSTOMIZATION": {
+        "TITLE": "Customization",
+        "DESCRIPTION": "Customize your card."
+      },
+      "EXTRAS": {
+        "TITLE": "Extras",
+        "DESCRIPTION": "Add some extra information to your card."
+      },
+      "REVIEW": {
+        "TITLE": "Review",
+        "DESCRIPTION": "Review your card before creating it."
+      }
+    }
+  }
+}
