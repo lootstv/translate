@@ -27,5 +27,9 @@
         "DESCRIPTION": "Review your card before creating it."
       }
     }
+  },
+  "CARDS": {
+    "TITLE": "{{collection.name}}'s available cards",
+    "DESCRIPTION": "Here you can see all the cards available in the collection {{collection.name}}."
   }
 }
