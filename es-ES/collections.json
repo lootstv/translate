@@ -14,6 +14,7 @@
     "COLLECTION_CONTROLS": {
       "TITLE": "Collection controls",
       "EDIT_COLLECTION": "Edit collection",
+      "NEW_CARD": "New card",
       "PUBLISH_COLLECTION": "Publish collection",
       "UNPUBLISH_COLLECTION": "Unpublish collection",
       "DELETE_COLLECTION": "Delete collection"
