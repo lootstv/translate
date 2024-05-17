@@ -3,6 +3,8 @@
   "COLLECTIONS": "Collections",
   "HOME": "Home",
   "MY_COLLECTIONS": "My collections",
+  "CARDS": "Collection cards",
+  "NEW_CARD": "New card",
   "EDIT_COLLECTION": "Edit collection",
   "NEW_COLLECTION": "New collection",
   "PUBLISH_COLLECTION": "Publish collection",
@@ -37,5 +39,7 @@
   "VERIFIED_BADGE_HELP_TEXT": "This user has verified their email address.",
   "BIOGRAPHY_DUMMY": "I'm a nice predefined bio!",
   "DESCRIPTION_DUMMY": "I'm a nice predefined description!",
-  "COLLECTION_URL": "Collection URL"
+  "COLLECTION_URL": "Collection URL",
+  "CARD_IMAGE": "Card image",
+  "CHANGE_SOUND_HELP": "MP3. 1MB max."
 }
