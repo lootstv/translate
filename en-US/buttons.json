@@ -50,5 +50,6 @@
   "UNPUBLISH_COLLECTION": "Unpublish collection",
   "UNPUBLISHING": "Unpublishing",
   "CREATE_CARD": "Create card",
-  "CHANGE_SOUND": "Change sound"
+  "CHANGE_SOUND": "Change sound",
+  "CLOSE": "Close"
 }
