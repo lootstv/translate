@@ -30,6 +30,19 @@
   },
   "CARDS": {
     "TITLE": "{{collection.name}}'s available cards",
-    "DESCRIPTION": "Here you can see all the cards available in the collection {{collection.name}}."
+    "DESCRIPTION": "Here you can see all the cards available in the collection {{collection.name}}.",
+    "CONTROLS": {
+      "TITLE": "Card controls",
+      "EDIT_CARD": "Edit card",
+      "TEST_CARD": "Test card",
+      "PUBLISH_CARD": "Publish card",
+      "UNPUBLISH_CARD": "Unpublish card",
+      "DELETE_CARD": "Delete card"
+    }
+  },
+  "CARD": {
+    "RARITY": "Rarity",
+    "DESCRIPTION": "Description",
+    "INSTRUCTIONS": "Instructions"
   }
 }
