@@ -52,5 +52,6 @@
   "USERS_NOT_FOUND": "No users found.",
   "IMAGE_NOT_SET": "You haven't set an image yet.",
   "COLLECTION_DOES_NOT_MEET_REQUIREMENTS": "The collection you provided doesn't meet the requirements.",
-  "CARDS_NOT_FOUND": "No cards found."
+  "CARDS_NOT_FOUND": "No cards found.",
+  "CARD_NOT_FOUND": "The card you provided is not found or not associated with your account."
 }
