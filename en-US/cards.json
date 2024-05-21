@@ -36,8 +36,7 @@
       "EDIT_CARD": "Edit card",
       "TEST_CARD": "Test card",
       "PUBLISH_CARD": "Publish card",
-      "UNPUBLISH_CARD": "Unpublish card",
-      "DELETE_CARD": "Delete card"
+      "UNPUBLISH_CARD": "Unpublish card"
     }
   },
   "CARD": {
