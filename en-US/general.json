@@ -17,5 +17,6 @@
   "COLLECTION_DATA_UPDATED": "You have successfully updated that collection! Reloading the page...",
   "COLLECTION_PUBLISHED_SUCCESSFULLY": "You have successfully published that collection!",
   "COLLECTION_UNPUBLISHED_SUCCESSFULLY": "You have successfully unpublished that collection!",
-  "CARD_CREATED": "You have successfully created a new card. Redirecting..."
+  "CARD_CREATED": "You have successfully created a new card. Redirecting...",
+  "CARD_DATA_UPDATED": "You have successfully updated that card! Reloading the page..."
 }
