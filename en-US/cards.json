@@ -44,5 +44,45 @@
     "RARITY": "Rarity",
     "DESCRIPTION": "Description",
     "INSTRUCTIONS": "Instructions"
+  },
+  "EDIT_CARD": {
+    "TITLE": "Edit card",
+    "DESCRIPTION": "Here you can edit the information of your card."
+  },
+  "PUBLISH_CARD": {
+    "TITLE": "Publish card",
+    "DESCRIPTION": "Here you can publish your card to make it available to other users.",
+    "BOX": {
+      "TITLE": "Publish \"{{card.name}}\" card",
+      "DESCRIPTION": "Make \"{{card.name}}\" card public and available to all users of the platform.",
+      "VERIFICATION_AND_SAFETY": {
+        "TITLE": "Verification and safety",
+        "ACCOUNT_VERIFIED": "Your account is verified.",
+        "BANK_ACCOUNT": "Your account must have a bank account linked to it.",
+        "30_DAYS": "You must have been a member for at least 30 days."
+      },
+      "BASIC_INFORMATION": {
+        "TITLE": "Basic information",
+        "NAME": "Your card must have a name.",
+        "DESCRIPTION": "Your card must have a description.",
+        "RARITY": "Your card must have a rarity."
+      },
+      "CUSTOMIZATION": {
+        "TITLE": "Customization",
+        "IMAGE": "Your card must have an image.",
+        "SOUND": "Your card must have a sound.",
+        "INSTRUCTIONS": "Your card must have instructions.",
+        "MESSAGE": "Your card must have a message."
+      },
+      "EXTRAS": {
+        "TITLE": "Extras",
+        "DURATION": "Your card must have a duration.",
+        "RATELIMIT": "Your card must have a ratelimit."
+      }
+    },
+    "MODAL": {
+      "TITLE": "Are you sure you want to publish this card?",
+      "DESCRIPTION": "By publishing your card, you agree to the <a class=\"font-semibold text-indigo-400 hover:text-indigo-300\" target=\"_blank\" rel=\"nonoreferrer noopener\" href=\"{{url}}\">terms and conditions</a> and <a class=\"font-semibold text-indigo-400 hover:text-indigo-300\" target=\"_blank\" rel=\"nonoreferrer noopener\" href=\"{{url2}}\">privacy policy</a> of the platform."
+    }
   }
 }

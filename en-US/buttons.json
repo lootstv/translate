@@ -51,5 +51,6 @@
   "UNPUBLISHING": "Unpublishing",
   "CREATE_CARD": "Create card",
   "CHANGE_SOUND": "Change sound",
-  "CLOSE": "Close"
+  "CLOSE": "Close",
+  "PUBLISH_CARD": "Publish card"
 }

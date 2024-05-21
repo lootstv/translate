@@ -43,8 +43,8 @@
     }
   },
   "EDIT_COLLECTION": {
-    "TITLE": "Basic information",
-    "DESCRIPTION": "Edit the basic information of your collection."
+    "TITLE": "Edit collection",
+    "DESCRIPTION": "Here you can edit the information of your collection."
   },
   "PUBLISH_COLLECTION": {
     "TITLE": "Publish collection",
