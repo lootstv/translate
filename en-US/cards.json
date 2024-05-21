@@ -84,5 +84,22 @@
       "TITLE": "Are you sure you want to publish this card?",
       "DESCRIPTION": "By publishing your card, you agree to the <a class=\"font-semibold text-indigo-400 hover:text-indigo-300\" target=\"_blank\" rel=\"nonoreferrer noopener\" href=\"{{url}}\">terms and conditions</a> and <a class=\"font-semibold text-indigo-400 hover:text-indigo-300\" target=\"_blank\" rel=\"nonoreferrer noopener\" href=\"{{url2}}\">privacy policy</a> of the platform."
     }
+  },
+  "UNPUBLISH_CARD": {
+    "TITLE": "Unpublish card",
+    "DESCRIPTION": "Here you can unpublish your card to make it unavailable to other users.",
+    "BOX": {
+      "TITLE": "Unpublish \"{{card.name}}\" card",
+      "DESCRIPTION": "Make \"{{card.name}}\" card private and unavailable to all users of the platform.",
+      "WARNING": {
+        "TITLE": "Before you unpublish your card",
+        "HIDDEN": "Your card will be unavailable for other users.",
+        "NO_REDEEM": "Your card will not be redeemable by other users."
+      }
+    },
+    "MODAL": {
+      "TITLE": "Are you sure you want to unpublish this card?",
+      "DESCRIPTION": "By unpublishing your card, you will make it private and unavailable to all users of the platform."
+    }
   }
 }
