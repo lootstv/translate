@@ -16,8 +16,7 @@
       "EDIT_COLLECTION": "Edit collection",
       "NEW_CARD": "New card",
       "PUBLISH_COLLECTION": "Publish collection",
-      "UNPUBLISH_COLLECTION": "Unpublish collection",
-      "DELETE_COLLECTION": "Delete collection"
+      "UNPUBLISH_COLLECTION": "Unpublish collection"
     }
   },
   "MY_COLLECTIONS": {
@@ -43,8 +42,8 @@
     }
   },
   "EDIT_COLLECTION": {
-    "TITLE": "Basic information",
-    "DESCRIPTION": "Edit the basic information of your collection."
+    "TITLE": "Edit collection",
+    "DESCRIPTION": "Here you can edit the information of your collection."
   },
   "PUBLISH_COLLECTION": {
     "TITLE": "Publish collection",
