@@ -64,6 +64,7 @@
   "CARD_RARITY": "Rarity",
   "CARD_RARITY_HELP_TEXT": "Rarity of your card",
   "CARD_RARITY_SELECT_TEXT": "Select a rarity",
+  "CARD_IMAGE_HELP_TEXT": "Only JPG and PNG files are allowed. Maximum size: 1MB",
   "CARD_INSTRUCTIONS": "Instructions",
   "CARD_INSTRUCTIONS_HELP_TEXT": "Instructions of your card",
   "CARD_INSTRUCTIONS_EXAMPLE": "Wait until I'm live before redeeming this card!",
