@@ -51,6 +51,7 @@
   "UNPUBLISHING": "Unpublishing",
   "CREATE_CARD": "Create card",
   "CHANGE_SOUND": "Change sound",
+  "DELETE_SOUND": "Delete sound",
   "CLOSE": "Close",
   "PUBLISH_CARD": "Publish card",
   "UNPUBLISH_CARD": "Unpublish card"
