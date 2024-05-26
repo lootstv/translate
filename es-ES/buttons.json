@@ -54,5 +54,7 @@
   "DELETE_SOUND": "Delete sound",
   "CLOSE": "Close",
   "PUBLISH_CARD": "Publish card",
-  "UNPUBLISH_CARD": "Unpublish card"
+  "UNPUBLISH_CARD": "Unpublish card",
+  "TEST_CARD": "Test card",
+  "TESTING": "Testing..."
 }
