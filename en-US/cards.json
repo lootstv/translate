@@ -100,5 +100,9 @@
       "TITLE": "Are you sure you want to unpublish this card?",
       "DESCRIPTION": "By unpublishing your card, you will make it private and unavailable to all users of the platform."
     }
+  },
+  "TEST_CARD": {
+    "TITLE": "Test card",
+    "DESCRIPTION": "Here you can test your card to see how it looks and sounds."
   }
 }
