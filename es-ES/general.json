@@ -26,6 +26,7 @@
   "VERIFY_EMAIL": "Verificar correo electrónico",
   "REQUEST_VERIFICATION_EMAIL": "Solicitar Correo de Verificación",
   "NOT_FOUND": "No Encontrado",
+  "RATELIMITED": "Rate Limited",
   "INTERNAL_SERVER_ERROR": "Error Interno del Servidor",
   "TERMS_AND_CONDITIONS_AND_PRIVACY_POLICY": "I have read and accept the  and the <a class=\"font-semibold text-indigo-400 hover:text-indigo-300\" target=\"_blank\" rel=\"nonoreferrer noopener\" href=\"{{url2}}\">privacy policy</a>.",
   "REQUIRED_FIELDS": "Los campos marcados con * son obligatorios.",
