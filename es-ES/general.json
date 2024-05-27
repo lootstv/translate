@@ -8,6 +8,8 @@
   "PUBLISH_CARD": "Publish card",
   "UNPUBLISH_CARD": "Unpublish card",
   "TEST_CARD": "Test card",
+  "EDIT_CHEST": "Edit chest",
+  "NEW_CHEST": "New chest",
   "EDIT_COLLECTION": "Edit collection",
   "NEW_COLLECTION": "New collection",
   "PUBLISH_COLLECTION": "Publish collection",
@@ -45,5 +47,7 @@
   "DESCRIPTION_DUMMY": "I'm a nice predefined description!",
   "COLLECTION_URL": "Collection URL",
   "CARD_IMAGE": "Card image",
-  "CHANGE_SOUND_HELP": "MP3. 1MB max."
+  "CHANGE_SOUND_HELP": "MP3. 1MB max.",
+  "CHEST_IMAGE": "Chest image",
+  "CHANGE_CHEST_IMAGE_HELP": "JPG or PNG. 1MB max."
 }
