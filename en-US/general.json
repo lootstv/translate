@@ -21,5 +21,7 @@
   "CARD_DATA_UPDATED": "You have successfully updated that card! Reloading the page...",
   "CARD_PUBLISHED_SUCCESSFULLY": "You have successfully published that card!",
   "CARD_UNPUBLISHED_SUCCESSFULLY": "You have successfully unpublished that card!",
-  "CARD_REDEEMED": "You have successfully redeemed that card!"
+  "CARD_REDEEMED": "You have successfully redeemed that card!",
+  "CHEST_CREATED": "You have successfully created a new chest. Redirecting...",
+  "CHEST_DATA_UPDATED": "You have successfully updated that chest! Reloading the page..."
 }
