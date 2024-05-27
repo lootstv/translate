@@ -77,5 +77,9 @@
   "CARD_RATELIMIT": "Rate limit",
   "CARD_RATELIMIT_HELP_TEXT": "Rate limit of your card in seconds",
   "SOUND": "Sound",
-  "SOUND_HELP_TEXT": "Only MP3 files are allowed. Maximum size: 1MB"
+  "SOUND_HELP_TEXT": "Only MP3 files are allowed. Maximum size: 1MB",
+  "CHEST_NAME": "Name",
+  "CHEST_NAME_HELP_TEXT": "Name of your chest",
+  "CHEST_PRICE": "Price",
+  "CHEST_PRICE_HELP_TEXT": "Price of your chest"
 }
