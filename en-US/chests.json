@@ -1,0 +1,24 @@
+{
+  "NEW_CHEST": {
+    "TITLE": "Let's create your new chest!",
+    "DESCRIPTION": "This wizard will help you create a new chest.<br>You will be able to customize it to your liking and review it before creating it",
+    "STEPS": {
+      "BASIC_INFORMATION": {
+        "TITLE": "Basic information",
+        "DESCRIPTION": "Basic information about your chest."
+      },
+      "CUSTOMIZATION": {
+        "TITLE": "Customization",
+        "DESCRIPTION": "Customize your chest."
+      },
+      "REVIEW": {
+        "TITLE": "Review",
+        "DESCRIPTION": "Review your chest before creating it."
+      }
+    }
+  },
+  "EDIT_CHEST": {
+    "TITLE": "Edit chest",
+    "DESCRIPTION": "Here you can edit the information of your chest."
+  }
+}
