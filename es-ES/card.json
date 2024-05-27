@@ -2,6 +2,13 @@
   "NAME": "Name",
   "DESCRIPTION": "Description",
   "RARITY": "Rarity",
+  "RARITIES": {
+    "COMMON": "Common",
+    "UNCOMMON": "Uncommon",
+    "RARE": "Rare",
+    "EPIC": "Epic",
+    "LEGENDARY": "Legendary"
+  },
   "INSTRUCTIONS": "Instructions",
   "IMAGE": "Image",
   "SOUND": "Sound",
