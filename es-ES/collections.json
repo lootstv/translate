@@ -16,7 +16,9 @@
       "EDIT_COLLECTION": "Edit collection",
       "NEW_CARD": "New card",
       "PUBLISH_COLLECTION": "Publish collection",
-      "UNPUBLISH_COLLECTION": "Unpublish collection"
+      "UNPUBLISH_COLLECTION": "Unpublish collection",
+      "CREATE_CHEST": "Create chest",
+      "EDIT_CHEST": "Edit chest"
     }
   },
   "MY_COLLECTIONS": {
