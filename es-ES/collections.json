@@ -70,7 +70,8 @@
       },
       "CONTENT": {
         "TITLE": "Content",
-        "PUBLISHED_CARDS": "Your collection must have at least 10 published cards."
+        "PUBLISHED_CARDS": "Your collection must have at least 10 published cards.",
+        "CHEST_CREATED": "You must have created a chest for your collection."
       }
     },
     "MODAL": {
