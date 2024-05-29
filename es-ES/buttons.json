@@ -58,5 +58,10 @@
   "TEST_CARD": "Test card",
   "TESTING": "Testing...",
   "CREATE_CHEST": "Create chest",
-  "BUY_CHEST": "Buy chest"
+  "ADD_TO_CART": "Add to cart",
+  "VIEW_CART": "View cart",
+  "CHECKOUT": "Checkout",
+  "CONTINUE_SHOPPING": "Continue shopping",
+  "CONFIRM": "Confirm",
+  "CHANGE_QUANTITY": "Change quantity"
 }
