@@ -1,0 +1,28 @@
+{
+  "ADD_TO_CART_MODAL": {
+    "TITLE": "Chest added to the cart!",
+    "DESCRIPTION": "This chest has been added to your cart. You can view your cart by clicking the button below."
+  },
+  "VIEW_CART": {
+    "TITLE": "Viewing your cart",
+    "SUBTITLE": "Items in your cart",
+    "ORDER_SUMMARY": "Order summary",
+    "IN_STOCK": "In stock",
+    "EMPTY_CART_CTA": {
+      "TITLE": "Your cart is empty",
+      "DESCRIPTION": "Looks like you haven't added anything to your cart yet. Click the button below to continue shopping.",
+      "BUTTON": "Start shopping"
+    },
+    "CHANGE_QUANTITY": {
+      "TITLE": "Change quantity",
+      "DESCRIPTION": "Select the quantity you would like to purchase.",
+      "SUCCESS": "You have successfully changed the quantity of this item."
+    }
+  },
+  "CHECKOUT": {
+    "SUBTOTAL": {
+      "TITLE": "Subtotal",
+      "DESCRIPTION": "Taxes will be calculated at checkout."
+    }
+  }
+}
