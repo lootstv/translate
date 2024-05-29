@@ -1,5 +1,6 @@
 {
   "DATE_TIME": "MM/DD/yyyy hh:mm",
+  "CART": "Cart",
   "COLLECTIONS": "Collections",
   "HOME": "Home",
   "CARDS": "Collection cards",
@@ -49,5 +50,8 @@
   "CARD_IMAGE": "Card image",
   "CHANGE_SOUND_HELP": "MP3. 1MB max.",
   "CHEST_IMAGE": "Chest image",
-  "CHANGE_CHEST_IMAGE_HELP": "JPG or PNG. 1MB max."
+  "CHANGE_CHEST_IMAGE_HELP": "JPG or PNG. 1MB max.",
+  "NA": "N/A",
+  "CHESTS": "Chests",
+  "OR": "or"
 }
