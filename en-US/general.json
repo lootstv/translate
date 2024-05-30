@@ -1,6 +1,7 @@
 {
   "DATE_TIME": "MM/DD/yyyy hh:mm",
   "CART": "Cart",
+  "CHECKOUT": "Checkout",
   "COLLECTIONS": "Collections",
   "HOME": "Home",
   "CARDS": "Collection cards",
