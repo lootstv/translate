@@ -1,0 +1,16 @@
+{
+  "TITLE": "Checkout",
+  "ORDER_SUMMARY": {
+    "TITLE": "Order summary",
+    "YOUR_ORDER": "Your order",
+    "IN_STOCK": "In stock",
+    "SUBTOTAL": "Subtotal",
+    "TAXES": "Taxes",
+    "TOTAL": "Total"
+  },
+  "ADD_PAYMENT_METHOD_CTA": {
+    "TITLE": "Add payment method",
+    "DESCRIPTION": "Looks like you haven't added a payment method yet. Add one to continue.",
+    "BUTTON": "Add payment method"
+  }
+}
