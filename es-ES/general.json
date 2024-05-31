@@ -23,5 +23,7 @@
   "CARD_UNPUBLISHED_SUCCESSFULLY": "You have successfully unpublished that card!",
   "CARD_REDEEMED": "You have successfully redeemed that card!",
   "CHEST_CREATED": "You have successfully created a new chest. Redirecting...",
-  "CHEST_DATA_UPDATED": "You have successfully updated that chest! Reloading the page..."
+  "CHEST_DATA_UPDATED": "You have successfully updated that chest! Reloading the page...",
+  "TRANSACTION_CREATED_WITH_ERRORS": "You have successfully created a new transaction, but there were some items that couldn't be purchased. Redirecting...",
+  "TRANSACTION_CREATED": "You have successfully created a new transaction. Redirecting..."
 }
