@@ -26,6 +26,7 @@
   "CONTACT_METHODS": "Contact methods",
   "SECURITY": "Security",
   "INTEGRATIONS": "Integrations",
+  "MY_TRANSACTIONS": "My transactions",
   "PROFILE": "{{user.username}}'s profile",
   "VERIFY_EMAIL": "Verify Email",
   "REQUEST_VERIFICATION_EMAIL": "Request Verification Email",
