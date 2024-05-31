@@ -1,0 +1,25 @@
+{
+  "TITLE": "Transactions",
+  "VIEWING_TRANSACTIONS": {
+    "COLLECTION": "Collection",
+    "TRANSACTION_ID": "Transaction ID",
+    "DATE": "Date",
+    "STATUS": "Status",
+    "QUANTITY": "Quantity",
+    "TOTAL": "Total"
+  },
+  "STATUS": {
+    "REQUIRES_PAYMENT_METHOD": "Requires payment method",
+    "REQUIRES_CONFIRMATION": "Requires confirmation",
+    "REQUIRES_ACTION": "Requires action",
+    "PROCESSING": "Processing",
+    "REQUIRES_CAPTURE": "Requires capture",
+    "SUCCEEDED": "Succeeded",
+    "FAILED": "Failed"
+  },
+  "NO_TRANSACTIONS_CTA": {
+    "TITLE": "No transactions yet",
+    "DESCRIPTION": "You haven't made any transactions yet. When you do, they will appear here.",
+    "BUTTON": "Buy some chests!"
+  }
+}
