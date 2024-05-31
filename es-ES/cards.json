@@ -63,7 +63,7 @@
       "BASIC_INFORMATION": {
         "TITLE": "Basic information",
         "NAME": "Your card must have a name.",
-        "DESCRIPTION": "Your card must have a description.",
+        "DESCRIPTION": "Your card must have a description and needs to be 32 characters long.",
         "RARITY": "Your card must have a rarity."
       },
       "CUSTOMIZATION": {
