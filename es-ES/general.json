@@ -1,6 +1,7 @@
 {
   "DATE_TIME": "MM/DD/yyyy hh:mm",
   "CART": "Cart",
+  "CHECKOUT": "Checkout",
   "COLLECTIONS": "Collections",
   "HOME": "Home",
   "CARDS": "Collection cards",
@@ -25,6 +26,7 @@
   "CONTACT_METHODS": "Métodos de contacto",
   "SECURITY": "Seguridad",
   "INTEGRATIONS": "Integrations",
+  "MY_TRANSACTIONS": "My transactions",
   "PROFILE": "{{user.username}}'s profile",
   "VERIFY_EMAIL": "Verificar correo electrónico",
   "REQUEST_VERIFICATION_EMAIL": "Solicitar Correo de Verificación",
