@@ -65,5 +65,7 @@
   "CONFIRM": "Confirm",
   "CHANGE_QUANTITY": "Change quantity",
   "PAY": "Pay",
-  "PAYING": "Paying..."
+  "PAYING": "Paying...",
+  "OPEN_CHEST": "Open chest",
+  "OPENING": "Opening..."
 }
