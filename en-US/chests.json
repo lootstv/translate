@@ -24,5 +24,9 @@
   "OPEN_CHEST_MODAL": {
     "TITLE": "Open chest",
     "DESCRIPTION": "Here you can open your chest and see its contents."
+  },
+  "SHOW_CARDS": {
+    "TITLE": "Chest opened!",
+    "DESCRIPTION": "Here you can see the cards that you have obtained from the chest."
   }
 }
