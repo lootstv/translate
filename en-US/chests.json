@@ -20,5 +20,9 @@
   "EDIT_CHEST": {
     "TITLE": "Edit chest",
     "DESCRIPTION": "Here you can edit the information of your chest."
+  },
+  "OPEN_CHEST_MODAL": {
+    "TITLE": "Open chest",
+    "DESCRIPTION": "Here you can open your chest and see its contents."
   }
 }

@@ -1,5 +1,6 @@
 {
   "DATE_TIME": "MM/DD/yyyy hh:mm",
+  "MY_BALANCE": "My balance",
   "CART": "Cart",
   "CHECKOUT": "Checkout",
   "COLLECTIONS": "Collections",
@@ -17,6 +18,7 @@
   "PUBLISH_COLLECTION": "Publish collection",
   "UNPUBLISH_COLLECTION": "Unpublish collection",
   "DISCOVER": "Discover",
+  "INVENTORY": "Inventory",
   "LOGIN": "Login",
   "FORGOT_PASSWORD": "Forgot password",
   "LOGOUT": "Logout",
@@ -55,5 +57,10 @@
   "CHANGE_CHEST_IMAGE_HELP": "JPG or PNG. 1MB max.",
   "NA": "N/A",
   "CHESTS": "Chests",
-  "OR": "or"
+  "OR": "or",
+  "START_MAKING_MONEY_CTA": {
+    "TITLE": "Start making money with your cards!",
+    "DESCRIPTION": "Create your first card and start selling it to your followers.",
+    "BUTTON": "Let's do it!"
+  }
 }
