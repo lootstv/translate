@@ -58,5 +58,8 @@
   "COLLECTION_ALREADY_HAS_CHEST": "The collection you provided already has a chest.",
   "CHEST_NOT_FOUND": "The chest you provided is not found or not associated with your account.",
   "INVALID_ITEMS_ADDED_TO_THE_CART": "The items you added to the cart are invalid. Check the items and try again.",
-  "TRANSACTIONS_NOT_FOUND": "No transactions found."
+  "TRANSACTIONS_NOT_FOUND": "No transactions found.",
+  "INVENTORY_NOT_FOUND": "No inventory found.",
+  "INSUFICIENT_CHESTS": "You don't have enough chests. Buy more chests to open.",
+  "CARD_NOT_OWNED": "You don't own the card you provided."
 }
