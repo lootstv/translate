@@ -1,18 +1,18 @@
 {
-  "NAME": "Name",
-  "DESCRIPTION": "Description",
-  "RARITY": "Rarity",
+  "NAME": "Nombre",
+  "DESCRIPTION": "Descripción",
+  "RARITY": "Rareza",
   "RARITIES": {
-    "COMMON": "Common",
-    "UNCOMMON": "Uncommon",
-    "RARE": "Rare",
-    "EPIC": "Epic",
-    "LEGENDARY": "Legendary"
+    "COMMON": "Común",
+    "UNCOMMON": "Poco común",
+    "RARE": "Raro",
+    "EPIC": "Épico",
+    "LEGENDARY": "Legendario"
   },
-  "INSTRUCTIONS": "Instructions",
-  "IMAGE": "Image",
-  "SOUND": "Sound",
-  "MESSAGE": "Message",
-  "DURATION": "Duration",
-  "RATELIMIT": "Rate Limit"
+  "INSTRUCTIONS": "Instrucciones",
+  "IMAGE": "Imagen",
+  "SOUND": "Sonido",
+  "MESSAGE": "Mensaje",
+  "DURATION": "Duración",
+  "RATELIMIT": "Límite de velocidad"
 }
