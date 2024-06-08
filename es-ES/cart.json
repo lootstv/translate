@@ -1,28 +1,28 @@
 {
   "ADD_TO_CART_MODAL": {
-    "TITLE": "Chest added to the cart!",
-    "DESCRIPTION": "This chest has been added to your cart. You can view your cart by clicking the button below."
+    "TITLE": "¡Cofre añadido al carrito!",
+    "DESCRIPTION": "Este cofre ha sido añadido a tu carrito. Puedes ver tu carrito haciendo clic en el botón de abajo."
   },
   "VIEW_CART": {
-    "TITLE": "Viewing your cart",
-    "SUBTITLE": "Items in your cart",
-    "ORDER_SUMMARY": "Order summary",
-    "IN_STOCK": "In stock",
+    "TITLE": "Viendo su carrito",
+    "SUBTITLE": "Artículos en su carro",
+    "ORDER_SUMMARY": "Resumen de su pedido",
+    "IN_STOCK": "En stock",
     "EMPTY_CART_CTA": {
-      "TITLE": "Your cart is empty",
-      "DESCRIPTION": "Looks like you haven't added anything to your cart yet. Click the button below to continue shopping.",
-      "BUTTON": "Start shopping"
+      "TITLE": "Tu carrito está vacío",
+      "DESCRIPTION": "Parece que aún no has añadido nada a tu carrito. Haz clic en el botón de abajo para continuar comprando.",
+      "BUTTON": "Empezar a comprar"
     },
     "CHANGE_QUANTITY": {
-      "TITLE": "Change quantity",
-      "DESCRIPTION": "Select the quantity you would like to purchase.",
-      "SUCCESS": "You have successfully changed the quantity of this item."
+      "TITLE": "Cambiar cantidad",
+      "DESCRIPTION": "Selecciona la cantidad que desea comprar.",
+      "SUCCESS": "Ha cambiado con éxito la cantidad de este artículo."
     }
   },
   "CHECKOUT": {
     "SUBTOTAL": {
       "TITLE": "Subtotal",
-      "DESCRIPTION": "Taxes will be calculated at checkout."
+      "DESCRIPTION": "El IVA se calculará en el checkout."
     }
   }
 }
