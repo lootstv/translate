@@ -5,7 +5,6 @@
     "TRANSACTION_ID": "Transaction ID",
     "DATE": "Date",
     "STATUS": "Status",
-    "QUANTITY": "Quantity",
     "TOTAL": "Total"
   },
   "STATUS": {
