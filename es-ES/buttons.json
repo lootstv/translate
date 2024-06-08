@@ -34,7 +34,6 @@
   "BALANCE": "Saldo",
   "MY_INVENTORY": "Mi inventario",
   "MY_TRANSACTIONS": "My transactions",
-  "CONTACT_US": "Contáctanos",
   "REGENERATE_TOKEN": "Regenerate token",
   "REGENERATING_TOKEN": "Regenerating token...",
   "COPY_TOKEN": "Copy token",
@@ -69,5 +68,6 @@
   "OPEN_CHEST": "Open chest",
   "OPENING": "Opening...",
   "REDEEM": "Redeem",
-  "REDEEMING": "Redeeming..."
+  "REDEEMING": "Redeeming...",
+  "ACCESS_TO_THE_PLATFORM": "Access to the platform"
 }
