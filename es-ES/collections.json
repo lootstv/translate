@@ -1,0 +1,100 @@
+{
+  "COLLECTIONS": {
+    "TITLE": "Colecciones de {{user.username}}",
+    "DESCRIPTION": "Aquí puedes ver todas las colecciones publicadas por {{user.username}}. También puedes crear tu propia colección para agrupar tus cartas favoritas.",
+    "NO_COLLECTIONS_CTA": {
+      "TITLE": "¡Crear tu primera colección hoy!",
+      "DESCRIPTION": "Puedes crear una colección para agrupar tus cartas favoritas. ¡Empieza a ganar dinero hoy!",
+      "BUTTON": "¡Hagámoslo!"
+    },
+    "NO_COLLECTIONS_ALT": {
+      "TITLE": "{{user.username}} aún no tiene colecciones",
+      "DESCRIPTION": "Parece que {{user.username}} no tiene colecciones publicadas aún."
+    },
+    "COLLECTION_CONTROLS": {
+      "TITLE": "Controles de la colección",
+      "EDIT_COLLECTION": "Editar colección",
+      "NEW_CARD": "Nueva carta",
+      "PUBLISH_COLLECTION": "Publicar colección",
+      "UNPUBLISH_COLLECTION": "Despublicar colección",
+      "CREATE_CHEST": "Crear cofre",
+      "EDIT_CHEST": "Editar cofre"
+    }
+  },
+  "MY_COLLECTIONS": {
+    "TITLE": "Mis colecciones",
+    "DESCRIPTION": "Aquí puedes ver todas las colecciones que has publicado. También puedes crear una nueva colección para agrupar tus tarjetas favoritas."
+  },
+  "NEW_COLLECTION": {
+    "TITLE": "¡Vamos a crear tu nueva colección!",
+    "DESCRIPTION": "Este asistente te ayudará a crear una nueva colección.<br>Podrás personalizarlo a tu gusto y revisarlo antes de crearlo",
+    "STEPS": {
+      "BASIC_INFORMATION": {
+        "TITLE": "Información básica",
+        "DESCRIPTION": "Información básica sobre tu colección."
+      },
+      "CUSTOMIZATION": {
+        "TITLE": "Personalización",
+        "DESCRIPTION": "Personaliza tu colección."
+      },
+      "REVIEW": {
+        "TITLE": "Revisión",
+        "DESCRIPTION": "Revisa tu colección antes de crearla."
+      }
+    }
+  },
+  "EDIT_COLLECTION": {
+    "TITLE": "Editar colección",
+    "DESCRIPTION": "Aquí puedes editar la información de tu colección."
+  },
+  "PUBLISH_COLLECTION": {
+    "TITLE": "Publicar colección",
+    "DESCRIPTION": "Al publicar tu colección, aceptas los <a class=\"font-semibold text-indigo-400 hover:text-indigo-300\" target=\"_blank\" rel=\"nonoreferrer noopener\" href=\"{{url}}\">términos y condiciones</a> y <a class=\"font-semibold text-indigo-400 hover:text-indigo-300\" target=\"_blank\" rel=\"nonoreferrer noopener\" href=\"{{url2}}\">política de privacidad</a> de la plataforma. El incumplimiento de estas normas puede resultar en una prohibición de la plataforma.",
+    "BOX": {
+      "TITLE": "Publicar la colección \"{{collection.name}}\"",
+      "DESCRIPTION": "Hacer pública la colección \"{{collection.name}}\" y disponible para todos los usuarios de la plataforma.",
+      "VERIFICATION_AND_SAFETY": {
+        "TITLE": "Verificación y seguridad",
+        "ACCOUNT_VERIFIED": "Su cuenta está verificada.",
+        "BANK_ACCOUNT": "Tu cuenta debe tener una cuenta bancaria vinculada a ella.",
+        "30_DAYS": "Debes haber sido miembro durante al menos 30 días."
+      },
+      "BASIC_INFORMATION": {
+        "TITLE": "Información básica",
+        "NAME": "Tu colección debe tener un nombre.",
+        "DESCRIPTION": "Tu colección debe tener una descripción y debe tener 32 caracteres."
+      },
+      "CUSTOMIZATION": {
+        "TITLE": "Personalización",
+        "IMAGE": "Tu colección debe tener una imagen."
+      },
+      "CONTENT": {
+        "TITLE": "Contenido",
+        "PUBLISHED_CARDS": "Tu colección debe tener al menos 10 tarjetas publicadas.",
+        "CHEST_CREATED": "Debes haber creado un cofre para tu colección."
+      }
+    },
+    "MODAL": {
+      "TITLE": "¿Seguro que quiere a publicar esta colección?",
+      "DESCRIPTION": "Al publicar tu colección, aceptas los <a class=\"font-semibold text-indigo-400 hover:text-indigo-300\" target=\"_blank\" rel=\"nonoreferrer noopener\" href=\"{{url}}\">términos y condiciones</a> y <a class=\"font-semibold text-indigo-400 hover:text-indigo-300\" target=\"_blank\" rel=\"nonoreferrer noopener\" href=\"{{url2}}\">política de privacidad</a> de la plataforma."
+    }
+  },
+  "UNPUBLISH_COLLECTION": {
+    "TITLE": "Despublicar colección",
+    "DESCRIPTION": "Al anular la publicación de tu colección, lo hará privado y ya no estará disponible para otros usuarios de la plataforma hasta que decida publicarlo de nuevo.",
+    "BOX": {
+      "TITLE": "Despublicar la colección \"{{collection.name}}\"",
+      "DESCRIPTION": "Haz tu colección de \"{{collection.name}}\" privada y solo disponible para ti.",
+      "WARNING": {
+        "TITLE": "Antes de despublicar tu colección",
+        "HIDDEN": "Tu colección no estará disponible para otros usuarios.",
+        "NO_MONEY": "No podrás ganar más dinero de tu colección hasta que lo publiques de nuevo.",
+        "NO_CARDS": "Los usuarios no podrán canjear tarjetas de tu colección hasta que no lo publiques de nuevo."
+      }
+    },
+    "MODAL": {
+      "TITLE": "¿Estás seguro de que quieres despublicar esta colección?",
+      "DESCRIPTION": "Al anular la publicación de tu colección, lo hará privado y ya no estará disponible para otros usuarios de la plataforma hasta que decida publicarlo de nuevo."
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "TITLE": "Transacciones",
+  "VIEWING_TRANSACTIONS": {
+    "COLLECTION": "Colección",
+    "TRANSACTION_ID": "ID de transacción",
+    "DATE": "Fecha",
+    "STATUS": "Estado",
+    "TOTAL": "Total"
+  },
+  "STATUS": {
+    "REQUIRES_PAYMENT_METHOD": "Eliminar método de pago",
+    "REQUIRES_CONFIRMATION": "Requiere confirmación",
+    "REQUIRES_ACTION": "Requiere acción",
+    "PROCESSING": "Procesando",
+    "REQUIRES_CAPTURE": "Requiere captura",
+    "SUCCEEDED": "Completado",
+    "FAILED": "Fallido"
+  },
+  "NO_TRANSACTIONS_CTA": {
+    "TITLE": "Sin transacciones aún",
+    "DESCRIPTION": "Aún no has realizado ninguna transacción. Cuando lo hagas, aparecerán aquí.",
+    "BUTTON": "¡Compra algunos cofres!"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ADD_TO_CART_MODAL": {
+    "TITLE": "¡Cofre añadido al carrito!",
+    "DESCRIPTION": "Este cofre ha sido añadido a tu carrito. Puedes ver tu carrito haciendo clic en el botón de abajo."
+  },
+  "VIEW_CART": {
+    "TITLE": "Viendo su carrito",
+    "SUBTITLE": "Artículos en su carro",
+    "ORDER_SUMMARY": "Resumen de su pedido",
+    "IN_STOCK": "En stock",
+    "EMPTY_CART_CTA": {
+      "TITLE": "Tu carrito está vacío",
+      "DESCRIPTION": "Parece que aún no has añadido nada a tu carrito. Haz clic en el botón de abajo para continuar comprando.",
+      "BUTTON": "Empezar a comprar"
+    },
+    "CHANGE_QUANTITY": {
+      "TITLE": "Cambiar cantidad",
+      "DESCRIPTION": "Selecciona la cantidad que desea comprar.",
+      "SUCCESS": "Ha cambiado con éxito la cantidad de este artículo."
+    }
+  },
+  "CHECKOUT": {
+    "SUBTOTAL": {
+      "TITLE": "Subtotal",
+      "DESCRIPTION": "El IVA se calculará en el checkout."
+    }
+  }
+}

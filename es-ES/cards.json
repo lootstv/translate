@@ -1,0 +1,108 @@
+{
+  "RARITIES": {
+    "COMMON": "Común",
+    "UNCOMMON": "Poco común",
+    "RARE": "Raro",
+    "EPIC": "Épico",
+    "LEGENDARY": "Legendario"
+  },
+  "NEW_CARD": {
+    "TITLE": "¡Vamos a crear tu nueva carta!",
+    "DESCRIPTION": "Este asistente te ayudará a crear una nueva carta.<br>Podrás personalizarlo a tu gusto y revisarlo antes de crearlo",
+    "STEPS": {
+      "BASIC_INFORMATION": {
+        "TITLE": "Información básica",
+        "DESCRIPTION": "Información básica sobre tu carta."
+      },
+      "CUSTOMIZATION": {
+        "TITLE": "Personalización",
+        "DESCRIPTION": "Personaliza tu carta."
+      },
+      "EXTRAS": {
+        "TITLE": "Extras",
+        "DESCRIPTION": "Añade información adicional a tu carta."
+      },
+      "REVIEW": {
+        "TITLE": "Revisión",
+        "DESCRIPTION": "Revisa tu carta antes de crearla."
+      }
+    }
+  },
+  "CARDS": {
+    "TITLE": "Cartas disponibles de {{collection.name}}",
+    "DESCRIPTION": "Aquí puedes ver todas las cartas disponibles en la colección {{collection.name}}.",
+    "CONTROLS": {
+      "TITLE": "Controles de la carta",
+      "EDIT_CARD": "Editar carta",
+      "TEST_CARD": "Probar carta",
+      "PUBLISH_CARD": "Publicar carta",
+      "UNPUBLISH_CARD": "Despublicar carta"
+    }
+  },
+  "CARD": {
+    "RARITY": "Rareza",
+    "DESCRIPTION": "Descripción",
+    "INSTRUCTIONS": "Instrucciones"
+  },
+  "EDIT_CARD": {
+    "TITLE": "Editar carta",
+    "DESCRIPTION": "Aquí puedes editar la información de tu carta."
+  },
+  "PUBLISH_CARD": {
+    "TITLE": "Publicar carta",
+    "DESCRIPTION": "Aquí puedes publicar tu carta para ponerla a disposición de otros usuarios.",
+    "BOX": {
+      "TITLE": "Publicar carta \"{{card.name}}\"",
+      "DESCRIPTION": "Hacer pública la carta \"{{card.name}}\" y disponible para todos los usuarios de la plataforma.",
+      "VERIFICATION_AND_SAFETY": {
+        "TITLE": "Verificación y seguridad",
+        "ACCOUNT_VERIFIED": "Su cuenta está verificada.",
+        "BANK_ACCOUNT": "Tu cuenta debe tener una cuenta bancaria vinculada a ella.",
+        "30_DAYS": "Debes haber sido miembro durante al menos 30 días."
+      },
+      "BASIC_INFORMATION": {
+        "TITLE": "Información básica",
+        "NAME": "Tu carta debe tener un nombre.",
+        "DESCRIPTION": "La carta debe tener una descripción y debe tener 32 caracteres.",
+        "RARITY": "Tu carta debe tener rareza."
+      },
+      "CUSTOMIZATION": {
+        "TITLE": "Personalización",
+        "IMAGE": "Tu carta debe tener una imagen.",
+        "SOUND": "Tu carta debe tener un sonido.",
+        "INSTRUCTIONS": "La carta debe tener instrucciones.",
+        "MESSAGE": "Tu carta debe tener un mensaje."
+      },
+      "EXTRAS": {
+        "TITLE": "Extras",
+        "DURATION": "Tu carta debe tener una duración.",
+        "RATELIMIT": "Tu carta debe tener una tasa de velocidad."
+      }
+    },
+    "MODAL": {
+      "TITLE": "¿Estás seguro de que quieres publicar esta carta?",
+      "DESCRIPTION": "Al publicar tu carta, aceptas los <a class=\"font-semibold text-indigo-400 hover:text-indigo-300\" target=\"_blank\" rel=\"nonoreferrer noopener\" href=\"{{url}}\">términos y condiciones</a> y <a class=\"font-semibold text-indigo-400 hover:text-indigo-300\" target=\"_blank\" rel=\"nonoreferrer noopener\" href=\"{{url2}}\">política de privacidad</a> de la plataforma."
+    }
+  },
+  "UNPUBLISH_CARD": {
+    "TITLE": "Despublicar carta",
+    "DESCRIPTION": "Aquí puedes anular la publicación de tu carta para que no esté disponible para otros usuarios.",
+    "BOX": {
+      "TITLE": "Despublicar carta \"{{card.name}}\"",
+      "DESCRIPTION": "Pon la carta {{card.name}} privada y no está disponible para todos los usuarios de la plataforma.",
+      "WARNING": {
+        "TITLE": "Antes de despublicar tu carta",
+        "HIDDEN": "Tu carta no estará disponible para otros usuarios.",
+        "NO_REDEEM": "Los demás usuarios no podrán canjear su carta."
+      }
+    },
+    "MODAL": {
+      "TITLE": "¿Estás seguro de que quieres anular la publicación de esta carta?",
+      "DESCRIPTION": "Al anular la publicación de tu carta, la harás privada y no disponible para todos los usuarios de la plataforma."
+    }
+  },
+  "TEST_CARD": {
+    "TITLE": "Probar carta",
+    "DESCRIPTION": "Aquí puedes probar tu carta para ver cómo se ve y cómo suena."
+  }
+}

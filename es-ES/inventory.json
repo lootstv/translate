@@ -1,0 +1,14 @@
+{
+  "MY_INVENTORY": {
+    "TITLE": "Mi inventario",
+    "DESCRIPTION": "Este es tu inventario. Aquí puedes ver todos los objetos que has coleccionado.",
+    "CHESTS": {
+      "TITLE": "Cofres",
+      "DESCRIPTION": "Estos son los cofres que has coleccionado. Puedes abrirlos para obtener los objetos dentro."
+    },
+    "CARDS": {
+      "TITLE": "Cartas",
+      "DESCRIPTION": "Estas son las cartas que has coleccionado. Puedes verlas para ver la información sobre el objeto."
+    }
+  }
+}

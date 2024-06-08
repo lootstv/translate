@@ -1,0 +1,32 @@
+{
+  "NEW_CHEST": {
+    "TITLE": "¡Vamos a crear tu nuevo cofre!",
+    "DESCRIPTION": "Este asistente le ayudará a crear un nuevo cofre.<br>Podrás personalizarlo a tu gusto y revisarlo antes de crearlo",
+    "STEPS": {
+      "BASIC_INFORMATION": {
+        "TITLE": "Información básica",
+        "DESCRIPTION": "Información básica sobre tu cofre."
+      },
+      "CUSTOMIZATION": {
+        "TITLE": "Personalización",
+        "DESCRIPTION": "Personaliza tu cofre."
+      },
+      "REVIEW": {
+        "TITLE": "Revisión",
+        "DESCRIPTION": "Revisa tu cofre antes de crearlo."
+      }
+    }
+  },
+  "EDIT_CHEST": {
+    "TITLE": "Editar cofre",
+    "DESCRIPTION": "Aquí puedes editar la información de tu cofre."
+  },
+  "OPEN_CHEST_MODAL": {
+    "TITLE": "Abrir cofre",
+    "DESCRIPTION": "Aquí puedes abrir tu cofre y ver su contenido."
+  },
+  "SHOW_CARDS": {
+    "TITLE": "¡Cofre abierto!",
+    "DESCRIPTION": "Aquí puedes ver las cartas que has obtenido del cofre."
+  }
+}

@@ -3,7 +3,6 @@
     "TITLE": "Información básica",
     "DESCRIPTION": "Información básica sobre tu cuenta."
   },
-  "CHANGE_AVATAR_HELP": "JPG o PNG. 1 MB máximo.",
   "CONTACT_METHODS": {
     "TITLE": "Métodos de contacto",
     "DESCRIPTION": "¿Cómo podemos llegar a usted?"
@@ -39,11 +38,20 @@
     "SECONDARY": "Secundario",
     "REMOVE_PAYMENT_METHOD": "Eliminar método de pago"
   },
+  "IN_STREAM_NOTIFICATIONS": {
+    "TITLE": "Notificaciones en stream",
+    "DESCRIPTION": "Genera o regenera el token de notificaciones en stream.",
+    "REGENERATED_TOKEN": {
+      "TITLE": "¡Token regenerado!",
+      "DESCRIPTION": "Tu token de notificaciones en stream ha sido regenerado. No olvide actualizarlo en su software de streaming.<br><strong>Este token no aparecerá de nuevo, así que asegúrate de guardarlo en un lugar seguro.</strong>",
+      "COPY_TOKEN": "Copiar token"
+    }
+  },
   "NAVBAR": {
     "GENERAL": "General",
     "CONTACT_METHODS": "Métodos de contacto",
     "SECURITY": "Seguridad",
     "BILLING": "Facturación",
-    "OTHER": "Otro"
+    "INTEGRATIONS": "Integraciones"
   }
 }

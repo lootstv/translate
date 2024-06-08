@@ -3,10 +3,17 @@
     "TITLE": "Página no encontrada",
     "DESCRIPTION": "La página que estás buscando no existe."
   },
+  "RATELIMITED": {
+    "TITLE": "Tasa limitada",
+    "DESCRIPTION": "Estás siendo limitado por el límite de peticiones. Por favor, inténtalo de nuevo más tarde."
+  },
   "INTERNAL_SERVER_ERROR": {
     "TITLE": "Error interno del servidor",
     "DESCRIPTION": "Se ha producido un error mientras se procesaba su solicitud. Por favor, inténtalo de nuevo más tarde."
   },
   "FORM_GENERIC_ERROR": "Se ha producido un error al enviar el formulario. Inténtalo de nuevo más tarde.",
-  "PASSWORDS_MISSMATCH": "Las contraseñas no coinciden."
+  "PASSWORDS_MISSMATCH": "Las contraseñas no coinciden.",
+  "MAX_FILE_SIZE": "El tamaño del archivo excede el tamaño máximo permitido.",
+  "EMPTY_CART": "Tu carrito está vacío.",
+  "MAX_ITEMS_IN_CART": "Has alcanzado el número máximo de artículos en el carrito."
 }
