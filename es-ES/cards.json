@@ -1,108 +1,108 @@
 {
   "RARITIES": {
-    "COMMON": "Common",
-    "UNCOMMON": "Uncommon",
-    "RARE": "Rare",
-    "EPIC": "Epic",
-    "LEGENDARY": "Legendary"
+    "COMMON": "Común",
+    "UNCOMMON": "Poco común",
+    "RARE": "Raro",
+    "EPIC": "Épico",
+    "LEGENDARY": "Legendario"
   },
   "NEW_CARD": {
-    "TITLE": "Let's create your new card!",
-    "DESCRIPTION": "This wizard will help you create a new card.<br>You will be able to customize it to your liking and review it before creating it",
+    "TITLE": "¡Vamos a crear tu nueva carta!",
+    "DESCRIPTION": "Este asistente te ayudará a crear una nueva carta.<br>Podrás personalizarlo a tu gusto y revisarlo antes de crearlo",
     "STEPS": {
       "BASIC_INFORMATION": {
-        "TITLE": "Basic information",
-        "DESCRIPTION": "Basic information about your card."
+        "TITLE": "Información básica",
+        "DESCRIPTION": "Información básica sobre tu carta."
       },
       "CUSTOMIZATION": {
-        "TITLE": "Customization",
-        "DESCRIPTION": "Customize your card."
+        "TITLE": "Personalización",
+        "DESCRIPTION": "Personaliza tu carta."
       },
       "EXTRAS": {
         "TITLE": "Extras",
-        "DESCRIPTION": "Add some extra information to your card."
+        "DESCRIPTION": "Añade información adicional a tu carta."
       },
       "REVIEW": {
-        "TITLE": "Review",
-        "DESCRIPTION": "Review your card before creating it."
+        "TITLE": "Revisión",
+        "DESCRIPTION": "Revisa tu carta antes de crearla."
       }
     }
   },
   "CARDS": {
-    "TITLE": "{{collection.name}}'s available cards",
-    "DESCRIPTION": "Here you can see all the cards available in the collection {{collection.name}}.",
+    "TITLE": "Cartas disponibles de {{collection.name}}",
+    "DESCRIPTION": "Aquí puedes ver todas las cartas disponibles en la colección {{collection.name}}.",
     "CONTROLS": {
-      "TITLE": "Card controls",
-      "EDIT_CARD": "Edit card",
-      "TEST_CARD": "Test card",
-      "PUBLISH_CARD": "Publish card",
-      "UNPUBLISH_CARD": "Unpublish card"
+      "TITLE": "Controles de la carta",
+      "EDIT_CARD": "Editar carta",
+      "TEST_CARD": "Probar carta",
+      "PUBLISH_CARD": "Publicar carta",
+      "UNPUBLISH_CARD": "Despublicar carta"
     }
   },
   "CARD": {
-    "RARITY": "Rarity",
-    "DESCRIPTION": "Description",
-    "INSTRUCTIONS": "Instructions"
+    "RARITY": "Rareza",
+    "DESCRIPTION": "Descripción",
+    "INSTRUCTIONS": "Instrucciones"
   },
   "EDIT_CARD": {
-    "TITLE": "Edit card",
-    "DESCRIPTION": "Here you can edit the information of your card."
+    "TITLE": "Editar carta",
+    "DESCRIPTION": "Aquí puedes editar la información de tu carta."
   },
   "PUBLISH_CARD": {
-    "TITLE": "Publish card",
-    "DESCRIPTION": "Here you can publish your card to make it available to other users.",
+    "TITLE": "Publicar carta",
+    "DESCRIPTION": "Aquí puedes publicar tu carta para ponerla a disposición de otros usuarios.",
     "BOX": {
-      "TITLE": "Publish \"{{card.name}}\" card",
-      "DESCRIPTION": "Make \"{{card.name}}\" card public and available to all users of the platform.",
+      "TITLE": "Publicar carta \"{{card.name}}\"",
+      "DESCRIPTION": "Hacer pública la carta \"{{card.name}}\" y disponible para todos los usuarios de la plataforma.",
       "VERIFICATION_AND_SAFETY": {
-        "TITLE": "Verification and safety",
-        "ACCOUNT_VERIFIED": "Your account is verified.",
-        "BANK_ACCOUNT": "Your account must have a bank account linked to it.",
-        "30_DAYS": "You must have been a member for at least 30 days."
+        "TITLE": "Verificación y seguridad",
+        "ACCOUNT_VERIFIED": "Su cuenta está verificada.",
+        "BANK_ACCOUNT": "Tu cuenta debe tener una cuenta bancaria vinculada a ella.",
+        "30_DAYS": "Debes haber sido miembro durante al menos 30 días."
       },
       "BASIC_INFORMATION": {
-        "TITLE": "Basic information",
-        "NAME": "Your card must have a name.",
-        "DESCRIPTION": "Your card must have a description and needs to be 32 characters long.",
-        "RARITY": "Your card must have a rarity."
+        "TITLE": "Información básica",
+        "NAME": "Tu carta debe tener un nombre.",
+        "DESCRIPTION": "La carta debe tener una descripción y debe tener 32 caracteres.",
+        "RARITY": "Tu carta debe tener rareza."
       },
       "CUSTOMIZATION": {
-        "TITLE": "Customization",
-        "IMAGE": "Your card must have an image.",
-        "SOUND": "Your card must have a sound.",
-        "INSTRUCTIONS": "Your card must have instructions.",
-        "MESSAGE": "Your card must have a message."
+        "TITLE": "Personalización",
+        "IMAGE": "Tu carta debe tener una imagen.",
+        "SOUND": "Tu carta debe tener un sonido.",
+        "INSTRUCTIONS": "La carta debe tener instrucciones.",
+        "MESSAGE": "Tu carta debe tener un mensaje."
       },
       "EXTRAS": {
         "TITLE": "Extras",
-        "DURATION": "Your card must have a duration.",
-        "RATELIMIT": "Your card must have a ratelimit."
+        "DURATION": "Tu carta debe tener una duración.",
+        "RATELIMIT": "Tu carta debe tener una tasa de velocidad."
       }
     },
     "MODAL": {
-      "TITLE": "Are you sure you want to publish this card?",
-      "DESCRIPTION": "By publishing your card, you agree to the <a class=\"font-semibold text-indigo-400 hover:text-indigo-300\" target=\"_blank\" rel=\"nonoreferrer noopener\" href=\"{{url}}\">terms and conditions</a> and <a class=\"font-semibold text-indigo-400 hover:text-indigo-300\" target=\"_blank\" rel=\"nonoreferrer noopener\" href=\"{{url2}}\">privacy policy</a> of the platform."
+      "TITLE": "¿Estás seguro de que quieres publicar esta carta?",
+      "DESCRIPTION": "Al publicar tu carta, aceptas los <a class=\"font-semibold text-indigo-400 hover:text-indigo-300\" target=\"_blank\" rel=\"nonoreferrer noopener\" href=\"{{url}}\">términos y condiciones</a> y <a class=\"font-semibold text-indigo-400 hover:text-indigo-300\" target=\"_blank\" rel=\"nonoreferrer noopener\" href=\"{{url2}}\">política de privacidad</a> de la plataforma."
     }
   },
   "UNPUBLISH_CARD": {
-    "TITLE": "Unpublish card",
-    "DESCRIPTION": "Here you can unpublish your card to make it unavailable to other users.",
+    "TITLE": "Despublicar carta",
+    "DESCRIPTION": "Aquí puedes anular la publicación de tu carta para que no esté disponible para otros usuarios.",
     "BOX": {
-      "TITLE": "Unpublish \"{{card.name}}\" card",
-      "DESCRIPTION": "Make \"{{card.name}}\" card private and unavailable to all users of the platform.",
+      "TITLE": "Despublicar carta \"{{card.name}}\"",
+      "DESCRIPTION": "Pon la carta {{card.name}} privada y no está disponible para todos los usuarios de la plataforma.",
       "WARNING": {
-        "TITLE": "Before you unpublish your card",
-        "HIDDEN": "Your card will be unavailable for other users.",
-        "NO_REDEEM": "Your card will not be redeemable by other users."
+        "TITLE": "Antes de despublicar tu carta",
+        "HIDDEN": "Tu carta no estará disponible para otros usuarios.",
+        "NO_REDEEM": "Los demás usuarios no podrán canjear su carta."
       }
     },
     "MODAL": {
-      "TITLE": "Are you sure you want to unpublish this card?",
-      "DESCRIPTION": "By unpublishing your card, you will make it private and unavailable to all users of the platform."
+      "TITLE": "¿Estás seguro de que quieres anular la publicación de esta carta?",
+      "DESCRIPTION": "Al anular la publicación de tu carta, la harás privada y no disponible para todos los usuarios de la plataforma."
     }
   },
   "TEST_CARD": {
-    "TITLE": "Test card",
-    "DESCRIPTION": "Here you can test your card to see how it looks and sounds."
+    "TITLE": "Probar carta",
+    "DESCRIPTION": "Aquí puedes probar tu carta para ver cómo se ve y cómo suena."
   }
 }
