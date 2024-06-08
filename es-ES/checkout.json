@@ -1,16 +1,16 @@
 {
-  "TITLE": "Checkout",
+  "TITLE": "Finalizar pedido",
   "ORDER_SUMMARY": {
-    "TITLE": "Order summary",
-    "YOUR_ORDER": "Your order",
-    "IN_STOCK": "In stock",
+    "TITLE": "Resumen de su pedido",
+    "YOUR_ORDER": "Tu pedido",
+    "IN_STOCK": "En stock",
     "SUBTOTAL": "Subtotal",
-    "TAXES": "Taxes",
+    "TAXES": "Impuestos",
     "TOTAL": "Total"
   },
   "ADD_PAYMENT_METHOD_CTA": {
-    "TITLE": "Add payment method",
-    "DESCRIPTION": "Looks like you haven't added a payment method yet. Add one to continue.",
-    "BUTTON": "Add payment method"
+    "TITLE": "Añadir método de pago",
+    "DESCRIPTION": "Parece que aún no has añadido un método de pago. Agrega uno para continuar.",
+    "BUTTON": "Añadir método de pago"
   }
 }
