@@ -11,5 +11,19 @@
   "USER_DATA_UPDATED": "¡Ha actualizado correctamente esos datos! Recargando la página...",
   "EMAIL_CHANGED_NEEDS_VERIFICATION": "¡Has cambiado correctamente tu dirección de correo electrónico! Tendrás que verificarlo antes de poder iniciar sesión de nuevo...",
   "PAYMENT_METHOD_ADDED": "¡Has añadido un método de pago con éxito! Recargando la página...",
-  "PAYMENT_METHOD_REMOVED": "¡Has eliminado con éxito el método de pago! Recargando la página..."
+  "PAYMENT_METHOD_REMOVED": "¡Has eliminado con éxito el método de pago! Recargando la página...",
+  "REGENERATED_NOTIFICATIONS_TOKEN": "¡Has regenerado con éxito tu token de notificación!",
+  "COLLECTION_CREATED": "Ha creado con éxito una nueva colección. Redirigiendo...",
+  "COLLECTION_DATA_UPDATED": "¡Ha actualizado correctamente esa colección! Recargando la página...",
+  "COLLECTION_PUBLISHED_SUCCESSFULLY": "¡Has publicado con éxito esa colección!",
+  "COLLECTION_UNPUBLISHED_SUCCESSFULLY": "¡Has despublicado con éxito esa colección!",
+  "CARD_CREATED": "Has creado correctamente una nueva carta. Redirigiendo...",
+  "CARD_DATA_UPDATED": "¡Has actualizado con éxito esa carta! Recargando la página...",
+  "CARD_PUBLISHED_SUCCESSFULLY": "¡Has publicado con éxito esa carta!",
+  "CARD_UNPUBLISHED_SUCCESSFULLY": "¡Has despublicado con éxito esa carta!",
+  "CARD_REDEEMED": "¡Has canjeado con éxito esa carta!",
+  "CHEST_CREATED": "Has creado con éxito un nuevo cofre. Redirigiendo...",
+  "CHEST_DATA_UPDATED": "¡Has actualizado correctamente el cofre! Recargando la página...",
+  "TRANSACTION_CREATED_WITH_ERRORS": "Has creado con éxito una nueva transacción, pero hay algunos artículos que no se han podido comprar. Redirigiendo...",
+  "TRANSACTION_CREATED": "Ha creado con éxito una nueva transacción. Redirigiendo..."
 }

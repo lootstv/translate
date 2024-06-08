@@ -1,0 +1,18 @@
+{
+  "NAME": "Nombre",
+  "DESCRIPTION": "Descripción",
+  "RARITY": "Rareza",
+  "RARITIES": {
+    "COMMON": "Común",
+    "UNCOMMON": "Poco común",
+    "RARE": "Raro",
+    "EPIC": "Épico",
+    "LEGENDARY": "Legendario"
+  },
+  "INSTRUCTIONS": "Instrucciones",
+  "IMAGE": "Imagen",
+  "SOUND": "Sonido",
+  "MESSAGE": "Mensaje",
+  "DURATION": "Duración",
+  "RATELIMIT": "Límite de velocidad"
+}
