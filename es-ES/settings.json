@@ -39,12 +39,12 @@
     "REMOVE_PAYMENT_METHOD": "Eliminar método de pago"
   },
   "IN_STREAM_NOTIFICATIONS": {
-    "TITLE": "In-stream notifications",
-    "DESCRIPTION": "Generate or regenerate your in-stream notifications token.",
+    "TITLE": "Notificaciones en stream",
+    "DESCRIPTION": "Genera o regenera el token de notificaciones en stream.",
     "REGENERATED_TOKEN": {
-      "TITLE": "Regenerated token!",
-      "DESCRIPTION": "Your in-stream notifications token has been regenerated. Don't forget to update it in your streaming software.<br><strong>This token won't show up again, so make sure to save it somewhere safe.</strong>",
-      "COPY_TOKEN": "Copy token"
+      "TITLE": "¡Token regenerado!",
+      "DESCRIPTION": "Tu token de notificaciones en stream ha sido regenerado. No olvide actualizarlo en su software de streaming.<br><strong>Este token no aparecerá de nuevo, así que asegúrate de guardarlo en un lugar seguro.</strong>",
+      "COPY_TOKEN": "Copiar token"
     }
   },
   "NAVBAR": {
@@ -52,6 +52,6 @@
     "CONTACT_METHODS": "Métodos de contacto",
     "SECURITY": "Seguridad",
     "BILLING": "Facturación",
-    "INTEGRATIONS": "Integrations"
+    "INTEGRATIONS": "Integraciones"
   }
 }
