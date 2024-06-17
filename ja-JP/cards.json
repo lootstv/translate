@@ -1,0 +1,108 @@
+{
+  "RARITIES": {
+    "COMMON": "Common",
+    "UNCOMMON": "Uncommon",
+    "RARE": "Rare",
+    "EPIC": "Epic",
+    "LEGENDARY": "Legendary"
+  },
+  "NEW_CARD": {
+    "TITLE": "Let's create your new card!",
+    "DESCRIPTION": "This wizard will help you create a new card.<br>You will be able to customize it to your liking and review it before creating it",
+    "STEPS": {
+      "BASIC_INFORMATION": {
+        "TITLE": "Basic information",
+        "DESCRIPTION": "Basic information about your card."
+      },
+      "CUSTOMIZATION": {
+        "TITLE": "Customization",
+        "DESCRIPTION": "Customize your card."
+      },
+      "EXTRAS": {
+        "TITLE": "Extras",
+        "DESCRIPTION": "Add some extra information to your card."
+      },
+      "REVIEW": {
+        "TITLE": "Review",
+        "DESCRIPTION": "Review your card before creating it."
+      }
+    }
+  },
+  "CARDS": {
+    "TITLE": "{{collection.name}}'s available cards",
+    "DESCRIPTION": "Here you can see all the cards available in the collection {{collection.name}}.",
+    "CONTROLS": {
+      "TITLE": "Card controls",
+      "EDIT_CARD": "Edit card",
+      "TEST_CARD": "Test card",
+      "PUBLISH_CARD": "Publish card",
+      "UNPUBLISH_CARD": "Unpublish card"
+    }
+  },
+  "CARD": {
+    "RARITY": "Rarity",
+    "DESCRIPTION": "Description",
+    "INSTRUCTIONS": "Instructions"
+  },
+  "EDIT_CARD": {
+    "TITLE": "Edit card",
+    "DESCRIPTION": "Here you can edit the information of your card."
+  },
+  "PUBLISH_CARD": {
+    "TITLE": "Publish card",
+    "DESCRIPTION": "Here you can publish your card to make it available to other users.",
+    "BOX": {
+      "TITLE": "Publish \"{{card.name}}\" card",
+      "DESCRIPTION": "Make \"{{card.name}}\" card public and available to all users of the platform.",
+      "VERIFICATION_AND_SAFETY": {
+        "TITLE": "Verification and safety",
+        "ACCOUNT_VERIFIED": "Your account is verified.",
+        "BANK_ACCOUNT": "Your account must have a bank account linked to it.",
+        "30_DAYS": "You must have been a member for at least 30 days."
+      },
+      "BASIC_INFORMATION": {
+        "TITLE": "Basic information",
+        "NAME": "Your card must have a name.",
+        "DESCRIPTION": "Your card must have a description and needs to be 32 characters long.",
+        "RARITY": "Your card must have a rarity."
+      },
+      "CUSTOMIZATION": {
+        "TITLE": "Customization",
+        "IMAGE": "Your card must have an image.",
+        "SOUND": "Your card must have a sound.",
+        "INSTRUCTIONS": "Your card must have instructions.",
+        "MESSAGE": "Your card must have a message."
+      },
+      "EXTRAS": {
+        "TITLE": "Extras",
+        "DURATION": "Your card must have a duration.",
+        "RATELIMIT": "Your card must have a ratelimit."
+      }
+    },
+    "MODAL": {
+      "TITLE": "Are you sure you want to publish this card?",
+      "DESCRIPTION": "By publishing your card, you agree to the <a class=\"font-semibold text-indigo-400 hover:text-indigo-300\" target=\"_blank\" rel=\"nonoreferrer noopener\" href=\"{{url}}\">terms and conditions</a> and <a class=\"font-semibold text-indigo-400 hover:text-indigo-300\" target=\"_blank\" rel=\"nonoreferrer noopener\" href=\"{{url2}}\">privacy policy</a> of the platform."
+    }
+  },
+  "UNPUBLISH_CARD": {
+    "TITLE": "Unpublish card",
+    "DESCRIPTION": "Here you can unpublish your card to make it unavailable to other users.",
+    "BOX": {
+      "TITLE": "Unpublish \"{{card.name}}\" card",
+      "DESCRIPTION": "Make \"{{card.name}}\" card private and unavailable to all users of the platform.",
+      "WARNING": {
+        "TITLE": "Before you unpublish your card",
+        "HIDDEN": "Your card will be unavailable for other users.",
+        "NO_REDEEM": "Your card will not be redeemable by other users."
+      }
+    },
+    "MODAL": {
+      "TITLE": "Are you sure you want to unpublish this card?",
+      "DESCRIPTION": "By unpublishing your card, you will make it private and unavailable to all users of the platform."
+    }
+  },
+  "TEST_CARD": {
+    "TITLE": "Test card",
+    "DESCRIPTION": "Here you can test your card to see how it looks and sounds."
+  }
+}
