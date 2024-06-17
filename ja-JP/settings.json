@@ -1,0 +1,57 @@
+{
+  "BASIC_INFORMATION": {
+    "TITLE": "Basic information",
+    "DESCRIPTION": "Basic information about your account."
+  },
+  "CONTACT_METHODS": {
+    "TITLE": "Contact methods",
+    "DESCRIPTION": "How we can reach you?"
+  },
+  "CHANGE_PASSWORD": {
+    "TITLE": "Change password",
+    "DESCRIPTION": "Change your password."
+  },
+  "LOGOUT": {
+    "SESSION": "Session",
+    "IP_ADDRESS": "IP address"
+  },
+  "LOGOUT_OTHER_SESSION": {
+    "TITLE": "Logout other session",
+    "DESCRIPTION": "Select the session you want to logout from."
+  },
+  "LOGOUT_OTHER_SESSIONS": {
+    "TITLE": "Logout other sessions",
+    "DESCRIPTION": "Logout from other devices except this one."
+  },
+  "BILLING_ADDRESS": {
+    "TITLE": "Billing address",
+    "DESCRIPTION": "Your billing address. Keep it up to date to avoid any issues."
+  },
+  "BANK_ACCOUNT": {
+    "TITLE": "Bank account",
+    "DESCRIPTION": "Your bank account. Add or remove it."
+  },
+  "PAYMENT_METHODS": {
+    "TITLE": "Payment methods",
+    "DESCRIPTION": "Your payment methods. Add or remove them.",
+    "PRIMARY": "Primary",
+    "SECONDARY": "Secondary",
+    "REMOVE_PAYMENT_METHOD": "Remove payment method"
+  },
+  "IN_STREAM_NOTIFICATIONS": {
+    "TITLE": "In-stream notifications",
+    "DESCRIPTION": "Generate or regenerate your in-stream notifications token.",
+    "REGENERATED_TOKEN": {
+      "TITLE": "Regenerated token!",
+      "DESCRIPTION": "Your in-stream notifications token has been regenerated. Don't forget to update it in your streaming software.<br><strong>This token won't show up again, so make sure to save it somewhere safe.</strong>",
+      "COPY_TOKEN": "Copy token"
+    }
+  },
+  "NAVBAR": {
+    "GENERAL": "General",
+    "CONTACT_METHODS": "Contact methods",
+    "SECURITY": "Security",
+    "BILLING": "Billing",
+    "INTEGRATIONS": "Integrations"
+  }
+}
