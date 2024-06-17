@@ -35,7 +35,7 @@
   "NOT_FOUND": "No Encontrado",
   "RATELIMITED": "Tasa limitada",
   "INTERNAL_SERVER_ERROR": "Error Interno del Servidor",
-  "TERMS_AND_CONDITIONS_AND_PRIVACY_POLICY": "He leído y acepto la <a class=\"font-semibold text-indigo-400 hover:text-indigo-300\" target=\"_blank\" rel=\"nonoreferrer noopener\" href=\"{{url2}}\">política de privacidad</a>.",
+  "TERMS_AND_CONDITIONS_AND_PRIVACY_POLICY": "He leído y acepto los <a class=\"font-semibold text-indigo-400 hover:text-indigo-300\" target=\"_blank\" rel=\"nonoreferrer noopener\" href=\"{{url}}\">términos y condiciones</a> y la <a class=\"font-semibold text-indigo-400 hover:text-indigo-300\" target=\"_blank\" rel=\"nonoreferrer noopener\" href=\"{{url2}}\">política de privacidad</a>.",
   "REQUIRED_FIELDS": "Los campos marcados con * son obligatorios.",
   "YOUR_PROFILE": "Tu perfil",
   "USER_AVATAR": "Avatar del usuario",

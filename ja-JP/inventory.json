@@ -1,0 +1,14 @@
+{
+  "MY_INVENTORY": {
+    "TITLE": "My Inventory",
+    "DESCRIPTION": "This is your inventory. Here you can see all the items you have collected.",
+    "CHESTS": {
+      "TITLE": "Chests",
+      "DESCRIPTION": "These are the chests you have collected. You can open them to get the items inside."
+    },
+    "CARDS": {
+      "TITLE": "Cards",
+      "DESCRIPTION": "These are the cards you have collected. You can view them to see the information about the item."
+    }
+  }
+}
